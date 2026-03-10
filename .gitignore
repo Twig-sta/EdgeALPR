@@ -1,6 +1,9 @@
 # Virtual Environment
 venv/
 
+# Captures
+dashboard/captures/
+
 # Python
 __pycache__/
 *.py[cod]
