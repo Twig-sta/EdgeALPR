@@ -1,0 +1,45 @@
+body {
+    background: #0f172a;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.feed {
+    flex: 2;
+}
+
+.history {
+    flex: 1;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.card {
+    background: #1e293b;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.live-feed {
+    width: 100%;
+    border: 2px solid #3b82f6;
+    border-radius: 10px;
+}
