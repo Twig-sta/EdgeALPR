@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-LOG_FILE = "dashboard/detections.json"
+LOG_FILE = "logs/detections.json"
 
 def load_detections():
     if not os.path.exists(LOG_FILE):
