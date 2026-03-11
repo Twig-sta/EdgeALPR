@@ -2,35 +2,38 @@
 <html>
     <head>
         <title>AlLPR Dashboard</title>
-        <style>
-            body {
-                font-family: Ariel;
-                background: #111;
-                color: white;
-            }
-            
-            .card{
-                background: #222;
-                padding: 10px;
-                margin: 10px;
-                border-radius: 8px;
-                display: inline-block;
-            }
-
-            img {
-                width:200px;
-            }
-        </style>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     </head>
 
     <body>
-        <h1>EdgeALPR Dashboard</h1>
+        <h1>EdgeALPR Live Dashboard</h1>
 
-        {% for d in detections %}
-            <div class="card">
-                <img src="/{{ d.image }}">
-                <p>plate: {{ d.text }}</p>
+        <div class="container">
+
+            <div class="feed">
+
+                <h2>Live Camera Feed</h2>
+
+                <img class="live-feed" src="{{ url_for('video_feed') }}">
+
             </div>
-        {% endfor %}
+
+            <div class="history">
+
+                <h2>Detected Plates</h2>
+
+                {% for d in detections %}
+
+                <div class="card">
+                    <img src="/{{ d.image }}">
+                    <p>{{ d.text }}</p>
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+        </div>
+
     </body>
 </html>
