@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AlLPR Dashboard</title>
+        <style>
+            body {
+                font-family: Ariel;
+                background: #111;
+                color: white;
+            }
+            
+            .card{
+                background: #222;
+                padding: 10px;
+                margin: 10px;
+                border-radius: 8px;
+                display: inline-block;
+            }
+
+            img {
+                width:200px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>EdgeALPR Dashboard</h1>
+
+        {% for d in detections %}
+            <div class="card">
+                <img src="/{{ d.image }}">
+                <p>plate: {{ d.text }}</p>
+            </div>
+        {% endfor %}
+    </body>
+</html>
