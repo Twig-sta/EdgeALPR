@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EdgeALPR Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>EdgeALPR Live Feed</h1>
+
+    <div class="container">
+        <div class="feed">
+            <img class="live-feed" src="{{ url_for('video_feed') }}" alt="Live Camera Feed">
+
+            <br>
+            
+            <a href="{{ url_for('capture_image') }}">
+                <button class="capture-btn">📸 Capture Image</button>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

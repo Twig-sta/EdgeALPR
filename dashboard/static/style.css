@@ -5,7 +5,7 @@ body {
     margin: 20px;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
 }
 
@@ -13,17 +13,30 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
 }
 
-.feed {
-    flex: 2;
+.feed, .captured-image, .detections {
+    width: 80%;
+    text-align: center;
 }
 
-.history {
-    flex: 1;
-    max-height: 80vh;
-    overflow-y: auto;
+.live-feed{
+    width: 640px;
+    max-width: 100%;
+    border: 2px solid #3b82f6;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.captured-img {
+    max-width: 900px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+    border: 2px solid #3b82f6;
 }
 
 .card {
@@ -31,15 +44,26 @@ h1 {
     border-radius: 8px;
     padding: 10px;
     margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.4);
 }
 
-.card img {
-    width: 100%;
+.capture-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
     border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
 }
 
-.live-feed {
-    width: 100%;
-    border: 2px solid #3b82f6;
-    border-radius: 10px;
+.capture-btn:hover {
+    background-color: #2563eb;
+}
+
+.no-detections {
+    color: #94a3b8;
+    font-style: italic;
 }
