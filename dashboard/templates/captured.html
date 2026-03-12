@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EdgeALPR Captured Image</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Captured Image & Detected Plates</h1>
+
+    
+    <div class="container">
+        <div class="captured-image">
+            {% if capture.image %}
+            <img class="captured-img"
+                 src="/captures/{{ capture.image }}">
+            {% else %}
+            <p>No image captured.</p>
+            {% endif %}
+        </div>
+
+      
+        <div class="detections">
+            <h2>Detected Plates</h2>
+            {% if capture.detections %}
+                {% for d in capture.detections %}
+                <div class="card">
+                    <p><b>Plate:</b> {{ d.text }}</p>
+                </div>
+                {% endfor %}
+            {% else %}
+                <p class="no-detections">No plates detected.</p>
+            {% endif %}
+        </div>
+
+        <a href="{{ url_for('live_feed_page') }}">
+            <button class="capture-btn">🔙 Back to Live Feed</button>
+        </a>
+    </div>
+</body>
+</html>

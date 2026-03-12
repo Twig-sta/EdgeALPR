@@ -1,36 +1,44 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>AlLPR Dashboard</title>
-        <style>
-            body {
-                font-family: Ariel;
-                background: #111;
-                color: white;
-            }
-            
-            .card{
-                background: #222;
-                padding: 10px;
-                margin: 10px;
-                border-radius: 8px;
-                display: inline-block;
-            }
+<head>
+    <title>EdgeALPR Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
 
-            img {
-                width:200px;
-            }
-        </style>
-    </head>
+<body>
+    <h1>EdgeALPR Live Dashboard</h1>
 
-    <body>
-        <h1>EdgeALPR Dashboard</h1>
+    <div class="container">
 
-        {% for d in detections %}
-            <div class="card">
-                <img src="/{{ d.image }}">
-                <p>plate: {{ d.text }}</p>
-            </div>
-        {% endfor %}
-    </body>
+        <!-- Live Feed Section -->
+        <div class="feed">
+            <h2>Live Camera Feed</h2>
+            <img class="live-feed" src="{{ url_for('video_feed') }}">
+            <a href="/capture">
+                <button class="capture-btn">📸 Capture Image</button>
+            </a>
+        </div>
+
+        <!-- Detected Plates Section -->
+        <div class="history">
+            <h2>Detected Plates</h2>
+
+            {% if detections %}
+                {% for d in detections %}
+                <div class="card">
+                    {% if d.image %}
+                    <img src="{{ url_for('serve_capture', filename=d.image.split('/')[-1]) }}">
+                    {% endif %}
+                    <p><b>Plate:</b> {{ d.text }}</p>
+                </div>
+                {% endfor %}
+            {% else %}
+                <p class="no-detections">No plates detected yet.</p>
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</body>
 </html>
