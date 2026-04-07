@@ -14,7 +14,7 @@ from alpr.visualization import draw_detections
 
 app = Flask(__name__)
 
-camera_service = CameraService()
+camera_service = CameraService()  # For testing with a static image
 
 last_capture = {"image": None, "detections": []}
 LOG_FILE = "logs/detections.json"
@@ -105,10 +105,19 @@ def captured_page():
 # SERVE CAPTURED IMAGES
 # -----------------------------
 @app.route('/captures/<filename>')
-def serve_capture(filename):
-    capture_folder = os.path.join(os.path.dirname(__file__), "captures")
-    return send_from_directory(capture_folder, filename)
+def serve_image(filename):
+    return send_from_directory('dashboard/captures', filename)
 
+@app.route('/history')
+def history_page():
+    try:
+        with open(LOG_FILE) as f:
+            detections = json.load(f)
+    except:
+        detections = []
+
+    detections = list(reversed(detections))
+    return render_template('history.html', detections=detections)
 
 # -----------------------------
 # RUN SERVER

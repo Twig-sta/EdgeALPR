@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plate History</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #111;
+            color: white;
+            text-align: center;
+        }
+
+        input {
+            padding: 10px;
+            width: 300px;
+            margin: 20px;
+        }
+
+        .grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .card {
+            background: #222;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        img {
+            width: 200px;
+            border-radius: 5px;
+        }
+
+        .authorized {
+            color: lightgreen;
+        }
+
+        .unauthorized {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Plate Detection History</h1>
+
+<input type="text" id="search" placeholder="Search plate..." onkeyup="filterPlates()">
+
+<div class="grid" id="plateGrid">
+    {% for log in logs %}
+        <div class="card">
+            <h3 class="{{ log.status }}">{{ log.plate }}</h3>
+            <p>{{ log.timestamp }}</p>
+            <img src="/{{ log.image }}">
+        </div>
+    {% endfor %}
+</div>
+
+<script>
+function filterPlates() {
+    let input = document.getElementById("search").value.toUpperCase();
+    let cards = document.getElementsByClassName("card");
+
+    for (let i = 0; i < cards.length; i++) {
+        let plate = cards[i].getElementsByTagName("h3")[0].innerText;
+
+        if (plate.includes(input)) {
+            cards[i].style.display = "";
+        } else {
+            cards[i].style.display = "none";
+        }
+    }
+}
+</script>
+
+</body>
+</html>
