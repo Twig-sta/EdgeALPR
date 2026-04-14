@@ -16,12 +16,19 @@ h1, h2 {
     gap: 30px;
 }
 
-.feed, .captured-image, .detections {
+.captured-image, .detections {
     width: 80%;
     text-align: center;
 }
 
-.live-feed{
+.feed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* LIVE FEED */
+.live-feed {
     width: 640px;
     max-width: 100%;
     border: 2px solid #3b82f6;
@@ -30,23 +37,39 @@ h1, h2 {
     margin: auto;
 }
 
+/* CAPTURED IMAGE */
 .captured-img {
     max-width: 900px;
-    width: auto;
+    width: 100%;
     height: auto;
-    object-fit: contain;
     border-radius: 10px;
     border: 2px solid #3b82f6;
 }
 
 .card {
     background: #1e293b;
-    border-radius: 8px;
-    padding: 10px;
+    border-radius: 10px;
+    padding: 15px;
     margin-bottom: 15px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+    width: 90%;
+    max-width: 700px;
+
+    /* IMPORTANT FIX */
+    height: auto;
+    overflow: visible;
 }
 
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+
+    /* KEY FIX: prevents cropping */
+    object-fit: contain;
+}
+
+/* BUTTONS */
 .capture-btn {
     margin-top: 10px;
     padding: 10px 20px;
@@ -56,14 +79,42 @@ h1, h2 {
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    transition: background 0.3s;
 }
 
 .capture-btn:hover {
     background-color: #2563eb;
 }
 
+.nav-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #22c55e;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.nav-btn:hover {
+    background-color: #16a34a;
+}
+
 .no-detections {
     color: #94a3b8;
     font-style: italic;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #3b82f6;
+    color: white;
+}
+
+button:hover {
+    background-color: #2563eb;
 }

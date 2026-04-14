@@ -44,13 +44,11 @@ def process_frame(frame):
         status = "unknown"
 
         if text:
-            # ✅ Determine status
             if is_authorized(text, authorized_plates):
                 status = "authorized"
             else:
                 status = "unauthorized"
 
-            # ✅ Prevent duplicate logging
             if text not in last_detected:
                 last_detected.add(text)
 

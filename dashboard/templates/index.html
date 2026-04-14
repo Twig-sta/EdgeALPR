@@ -7,21 +7,29 @@
 
 <body>
     <h1>EdgeALPR Live Dashboard</h1>
-
+    <button style="background:red; padding:20px;">TEST BUTTON</button>
+    <button class="nav-btn">TEST BUTTON</button>
     <div class="container">
 
         <!-- Live Feed Section -->
         <div class="feed">
             <h2>Live Camera Feed</h2>
+
             <img class="live-feed" src="{{ url_for('video_feed') }}">
-            <a href="/capture">
-                <button class="capture-btn">📸 Capture Image</button>
-            </a>
-            <a href="/history">View History</a>
+
+            <div style="margin-top: 20px; z-index: 10;">
+                <a href="/capture">
+                    <button class="capture-btn">Capture Image</button>
+                </a>
+
+                <a href="{{ url_for('history') }}">
+                    <button class="nav-btn">📜 View History</button>
+                </a>
+            </div>
         </div>
 
         <!-- Detected Plates Section -->
-        <div class="history">
+        <div class="detections">
             <h2>Detected Plates</h2>
 
             {% if detections %}

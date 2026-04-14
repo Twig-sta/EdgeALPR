@@ -9,6 +9,18 @@ from datetime import datetime
 # Directory to save captured license plate images
 CAPTURE_DIR = "dashboard/captures/"
 
+def save_plate_image(image):
+    os.makedirs(CAPTURE_DIR, exist_ok=True)
+
+    filename = f"capture_{int(datetime.now().timestamp())}.jpg"
+    path = os.path.join(CAPTURE_DIR, filename)
+
+    cv2.imwrite(path, image)
+
+    print("Saved image at:", path)
+
+    return path
+
 # Preprocess the image for better license plate detection 
 # This function converts the image to grayscale and applies a Gaussian blur to reduce noise
 def preprocess_image(frame):
@@ -24,14 +36,3 @@ def detect_edges(image):
 
     return edges
 
-# Save the detected license plate image to the captures directory with a timestamped filename
-# This function checks if the captures directory exists, creates it if it doesn't, and saves the plate image with a filename that includes the current date and time
-def save_plate_image(plate_img):
-    if not os.path.exists(CAPTURE_DIR):
-        os.makedirs(CAPTURE_DIR)
-
-    filename = datetime.now().strftime("plate_%Y%m%d_%H%M%S.jpg")
-    path = os.path.join(CAPTURE_DIR, filename)
-    cv2.imwrite(path, plate_img)
-
-    return path

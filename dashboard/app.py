@@ -14,16 +14,18 @@ from alpr.visualization import draw_detections
 
 app = Flask(__name__)
 
-camera_service = CameraService()  # For testing with a static image
+camera_service = CameraService()
 
 last_capture = {"image": None, "detections": []}
 LOG_FILE = "logs/detections.json"
+
+# ✅ FIXED: absolute capture directory
+CAPTURE_DIR = os.path.join(os.path.dirname(__file__), "captures")
 
 
 def load_detections():
     if not os.path.exists(LOG_FILE):
         return []
-
     with open(LOG_FILE) as f:
         return json.load(f)
 
@@ -37,6 +39,12 @@ def generate_frames():
             frame = camera_service.get_frame()
 
             detections_list = process_frame(frame)
+
+            detections_list = [
+                d for d in detections_list
+                if d.get("text") and d.get("text").strip() != ""
+            ]
+
             frame = draw_detections(frame, detections_list)
 
             ret, buffer = cv2.imencode('.jpg', frame)
@@ -63,38 +71,38 @@ def live_feed_page():
 
 @app.route('/video_feed')
 def video_feed():
-    return Response(
-        generate_frames(),
-        mimetype='multipart/x-mixed-replace; boundary=frame'
-    )
+    return Response(generate_frames(), mimetype='multipart/x-mixed-replace; boundary=frame')
 
 
 # -----------------------------
-# IMAGE CAPTURE
+# CAPTURE IMAGE
 # -----------------------------
 @app.route('/capture')
 def capture_image():
-
     global last_capture
 
     frame = camera_service.get_frame()
 
-    filename = f"capture_{int(time.time())}.jpg"
-
-    capture_folder = os.path.join(os.path.dirname(__file__), "captures")
-    os.makedirs(capture_folder, exist_ok=True)
-
-    filepath = os.path.join(capture_folder, filename)
-
-    cv2.imwrite(filepath, frame)
-
     detected_plates = process_frame(frame)
 
+    filtered_detections = [
+        d for d in detected_plates
+        if d.get("text") and d.get("text").strip() != ""
+    ]
+
+    frame_with_boxes = draw_detections(frame.copy(), filtered_detections)
+
+    filename = f"capture_{int(time.time())}.jpg"
+    os.makedirs(CAPTURE_DIR, exist_ok=True)
+
+    filepath = os.path.join(CAPTURE_DIR, filename)
+
+    cv2.imwrite(filepath, frame_with_boxes)
+
     last_capture["image"] = filename
-    last_capture["detections"] = detected_plates
+    last_capture["detections"] = filtered_detections
 
     return redirect(url_for('captured_page'))
-
 
 @app.route('/captured')
 def captured_page():
@@ -102,26 +110,29 @@ def captured_page():
 
 
 # -----------------------------
-# SERVE CAPTURED IMAGES
+# SERVE CAPTURED IMAGES (FIXED)
 # -----------------------------
 @app.route('/captures/<filename>')
 def serve_image(filename):
-    return send_from_directory('dashboard/captures', filename)
+    return send_from_directory(CAPTURE_DIR, filename)
 
+
+# -----------------------------
+# HISTORY
+# -----------------------------
 @app.route('/history')
 def history_page():
     try:
-        with open(LOG_FILE) as f:
-            detections = json.load(f)
+        with open(LOG_FILE, "r") as f:
+            logs = json.load(f)
     except:
-        detections = []
+        logs = []
 
-    detections = list(reversed(detections))
-    return render_template('history.html', detections=detections)
+    return render_template('history.html', logs=logs)
+
 
 # -----------------------------
-# RUN SERVER
+# RUN
 # -----------------------------
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5055, debug=True)
-
