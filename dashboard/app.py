@@ -14,12 +14,13 @@ from alpr.visualization import draw_detections
 
 app = Flask(__name__)
 
+#camera from rasberry pi
 camera_service = CameraService()
 
 last_capture = {"image": None, "detections": []}
 LOG_FILE = "logs/detections.json"
 
-# ✅ FIXED: absolute capture directory
+
 CAPTURE_DIR = os.path.join(os.path.dirname(__file__), "captures")
 
 

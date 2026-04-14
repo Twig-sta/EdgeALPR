@@ -6,7 +6,7 @@ import cv2
 class CameraService:
     # Initialize the camera service by opening a connection to the default camera (index 0).
     def __init__(self):
-        self.cap = cv2.VideoCapture(0, cv2.CAP_AVFOUNDATION)
+        self.cap = cv2.VideoCapture(0, cv2.CAP_V4L2)
 
         if not self.cap.isOpened():
             print("camera failed to open")
