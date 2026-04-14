@@ -136,4 +136,4 @@ def history_page():
 # RUN
 # -----------------------------
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5055, debug=True)
+    app.run(host='0.0.0.0', port=5055, debug=True, use_reloader=False)
