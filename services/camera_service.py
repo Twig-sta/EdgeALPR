@@ -1,26 +1,25 @@
-# services/camera_service.py
-# This module defines the CameraService class, which is responsible for interfacing with the camera hardware to capture video frames. 
-# It uses OpenCV to access the camera and retrieve frames in real-time. 
-
+from picamera2 import Picamera2
 import cv2
+
 class CameraService:
-    # Initialize the camera service by opening a connection to the default camera (index 0).
     def __init__(self):
-        self.cap = cv2.VideoCapture(0, cv2.CAP_V4L2)
+        self.picam2 = Picamera2()
 
-        if not self.cap.isOpened():
-            print("camera failed to open")
-        else:
-            print("camera opened successfully")
+        self.picam2.configure(
+            self.picam2.create_preview_configuration(
+                main={"format": "RGB888", "size": (640, 480)}
+            )
+        )
 
-    # This method captures a single frame from the camera. It returns the captured frame if successful, or None if it fails to grab a frame.
+        self.picam2.start()
+        print("camera opened successfully (Picamera2)")
+
     def get_frame(self):
-        ret, frame = self.cap.read()
+        frame = self.picam2.capture_array()
 
-        if not ret:
+        if frame is None:
             print("camera failed to grab frame")
             return None
-        else:
-            print("camera grabbed frame successfully")
-        
-        return frame
+
+        # Convert RGB → BGR for OpenCV pipeline compatibility
+        return cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
