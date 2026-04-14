@@ -1,5 +1,4 @@
 import cv2
-
 class CameraService:
     def __init__(self):
         # Initialize the camera service by opening a connection to the default camera (index 0)
