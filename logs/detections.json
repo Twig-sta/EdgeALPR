@@ -1,167 +1,4298 @@
 [
   {
-    "plate": "S",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.154172"
+    "plate": "MER18",
+    "image": "dashboard/captures/plate_20260406_224228.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:28.532614"
   },
   {
-    "plate": "2COOLAU",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.339617"
+    "plate": "PEETTI",
+    "image": "dashboard/captures/plate_20260406_224229.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:29.273925"
   },
   {
-    "plate": "YI",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.400539"
+    "plate": "PUTES",
+    "image": "dashboard/captures/plate_20260406_224231.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:31.754607"
   },
   {
-    "plate": "YIA",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.461356"
+    "plate": "MUNEE",
+    "image": "dashboard/captures/plate_20260406_224234.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:34.335955"
   },
   {
-    "plate": "---NS",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.591548"
+    "plate": "OHOME",
+    "image": "dashboard/captures/plate_20260406_224235.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:35.171625"
   },
   {
-    "plate": "FTSS",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.784347"
+    "plate": "OH7ELIE",
+    "image": "dashboard/captures/plate_20260406_224237.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:37.102756"
   },
   {
-    "plate": "XE",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.847196"
+    "plate": "MERTE",
+    "image": "dashboard/captures/plate_20260406_224238.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:38.185021"
   },
   {
-    "plate": "AE",
-    "image": "dashboard/captures/plate_20260310_030214.jpg",
-    "timestamp": "2026-03-10T03:02:14.908470"
+    "plate": "COUFOHEE",
+    "image": "dashboard/captures/plate_20260406_224239.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:39.204151"
   },
   {
-    "plate": "F",
-    "image": "dashboard/captures/plate_20260310_030215.jpg",
-    "timestamp": "2026-03-10T03:02:15.032142"
+    "plate": "EWEES",
+    "image": "dashboard/captures/plate_20260406_224240.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:40.712343"
   },
   {
-    "plate": "AE",
-    "image": "dashboard/captures/plate_20260310_030215.jpg",
-    "timestamp": "2026-03-10T03:02:15.284003"
+    "plate": "WONLT",
+    "image": "dashboard/captures/plate_20260406_224242.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:42.041013"
   },
   {
-    "plate": "A",
-    "image": "dashboard/captures/plate_20260310_030215.jpg",
-    "timestamp": "2026-03-10T03:02:15.404805"
+    "plate": "MRIT8",
+    "image": "dashboard/captures/plate_20260406_224243.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:43.584002"
   },
   {
-    "plate": "S",
-    "image": "dashboard/captures/plate_20260310_030605.jpg",
-    "timestamp": "2026-03-10T03:06:05.331570"
+    "plate": "RMAA5",
+    "image": "dashboard/captures/plate_20260406_224243.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:43.788974"
   },
   {
-    "plate": "2COOLAU",
-    "image": "dashboard/captures/plate_20260310_030605.jpg",
-    "timestamp": "2026-03-10T03:06:05.518370"
+    "plate": "ESTTI",
+    "image": "dashboard/captures/plate_20260406_224245.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:45.947740"
   },
   {
-    "plate": "YI",
-    "image": "dashboard/captures/plate_20260310_030605.jpg",
-    "timestamp": "2026-03-10T03:06:05.580352"
+    "plate": "AETTT",
+    "image": "dashboard/captures/plate_20260406_224246.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:46.958147"
   },
   {
-    "plate": "YIA",
-    "image": "dashboard/captures/plate_20260310_030605.jpg",
-    "timestamp": "2026-03-10T03:06:05.642816"
+    "plate": "ANIBE",
+    "image": "dashboard/captures/plate_20260406_224248.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:48.941167"
   },
   {
-    "plate": "---NS",
-    "image": "dashboard/captures/plate_20260310_030605.jpg",
-    "timestamp": "2026-03-10T03:06:05.775923"
+    "plate": "ANIBEE",
+    "image": "dashboard/captures/plate_20260406_224249.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:49.641076"
   },
   {
-    "plate": "FTSS",
-    "image": "dashboard/captures/plate_20260310_030605.jpg",
-    "timestamp": "2026-03-10T03:06:05.969370"
+    "plate": "PTREE",
+    "image": "dashboard/captures/plate_20260406_224251.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:51.245383"
   },
   {
-    "plate": "XE",
-    "image": "dashboard/captures/plate_20260310_030606.jpg",
-    "timestamp": "2026-03-10T03:06:06.030142"
+    "plate": "WEAEE",
+    "image": "dashboard/captures/plate_20260406_224252.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:52.320560"
   },
   {
-    "plate": "AE",
-    "image": "dashboard/captures/plate_20260310_030606.jpg",
-    "timestamp": "2026-03-10T03:06:06.089689"
+    "plate": "DHELEET",
+    "image": "dashboard/captures/plate_20260406_224253.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:53.608618"
   },
   {
-    "plate": "F",
-    "image": "dashboard/captures/plate_20260310_030606.jpg",
-    "timestamp": "2026-03-10T03:06:06.210257"
+    "plate": "CADESFH",
+    "image": "dashboard/captures/plate_20260406_224259.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:42:59.213109"
   },
   {
-    "plate": "AE",
-    "image": "dashboard/captures/plate_20260310_030606.jpg",
-    "timestamp": "2026-03-10T03:06:06.464691"
+    "plate": "YHNEE",
+    "image": "dashboard/captures/plate_20260406_224300.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:00.055659"
   },
   {
-    "plate": "A",
-    "image": "dashboard/captures/plate_20260310_030606.jpg",
-    "timestamp": "2026-03-10T03:06:06.586181"
+    "plate": "WERTOS",
+    "image": "dashboard/captures/plate_20260406_224301.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:01.979457"
   },
   {
-    "plate": "S",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.134850"
+    "plate": "NEATA",
+    "image": "dashboard/captures/plate_20260406_224304.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:04.726300"
   },
   {
-    "plate": "2COOLAU",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.315602"
+    "plate": "EEETTT",
+    "image": "dashboard/captures/plate_20260406_224307.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:07.752638"
   },
   {
-    "plate": "YI",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.382209"
+    "plate": "OULES",
+    "image": "dashboard/captures/plate_20260406_224312.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:12.086598"
   },
   {
-    "plate": "YIA",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.445678"
+    "plate": "FF66OF",
+    "image": "dashboard/captures/plate_20260406_224312.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:12.755058"
   },
   {
-    "plate": "---NS",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.573557"
+    "plate": "OHAEEE",
+    "image": "dashboard/captures/plate_20260406_224312.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:12.830504"
   },
   {
-    "plate": "FTSS",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.796781"
+    "plate": "COALULES",
+    "image": "dashboard/captures/plate_20260406_224313.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:13.525852"
   },
   {
-    "plate": "XE",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.858430"
+    "plate": "LIHTEE",
+    "image": "dashboard/captures/plate_20260406_224313.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:13.664315"
   },
   {
-    "plate": "AE",
-    "image": "dashboard/captures/plate_20260310_030653.jpg",
-    "timestamp": "2026-03-10T03:06:53.918118"
+    "plate": "SATIE",
+    "image": "dashboard/captures/plate_20260406_224314.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:14.425367"
   },
   {
-    "plate": "F",
-    "image": "dashboard/captures/plate_20260310_030654.jpg",
-    "timestamp": "2026-03-10T03:06:54.040325"
+    "plate": "ORTUN",
+    "image": "dashboard/captures/plate_20260406_224318.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:18.365932"
   },
   {
-    "plate": "AE",
-    "image": "dashboard/captures/plate_20260310_030654.jpg",
-    "timestamp": "2026-03-10T03:06:54.288642"
+    "plate": "AAAOE",
+    "image": "dashboard/captures/plate_20260406_224318.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:18.519932"
   },
   {
-    "plate": "A",
-    "image": "dashboard/captures/plate_20260310_030654.jpg",
-    "timestamp": "2026-03-10T03:06:54.409200"
+    "plate": "ITEAE",
+    "image": "dashboard/captures/plate_20260406_224321.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:21.998288"
+  },
+  {
+    "plate": "SRTT0",
+    "image": "dashboard/captures/plate_20260406_224324.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:24.664575"
+  },
+  {
+    "plate": "ISNOG",
+    "image": "dashboard/captures/plate_20260406_224325.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:25.077827"
+  },
+  {
+    "plate": "ANSED",
+    "image": "dashboard/captures/plate_20260406_224325.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:25.274252"
+  },
+  {
+    "plate": "WHMAS",
+    "image": "dashboard/captures/plate_20260406_224325.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:25.895784"
+  },
+  {
+    "plate": "LFTEE",
+    "image": "dashboard/captures/plate_20260406_224328.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:28.100193"
+  },
+  {
+    "plate": "GPSERA",
+    "image": "dashboard/captures/plate_20260406_224329.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:29.536580"
+  },
+  {
+    "plate": "KANAE",
+    "image": "dashboard/captures/plate_20260406_224330.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:30.818805"
+  },
+  {
+    "plate": "WIOTLAA",
+    "image": "dashboard/captures/plate_20260406_224333.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:33.201249"
+  },
+  {
+    "plate": "ASETN",
+    "image": "dashboard/captures/plate_20260406_224336.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:36.575712"
+  },
+  {
+    "plate": "ELIGI",
+    "image": "dashboard/captures/plate_20260406_224338.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:38.279193"
+  },
+  {
+    "plate": "A7GALE",
+    "image": "dashboard/captures/plate_20260406_224342.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:42.806486"
+  },
+  {
+    "plate": "YTETAE",
+    "image": "dashboard/captures/plate_20260406_224344.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:44.401606"
+  },
+  {
+    "plate": "DY7GETE",
+    "image": "dashboard/captures/plate_20260406_224345.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:45.413996"
+  },
+  {
+    "plate": "MYIDES",
+    "image": "dashboard/captures/plate_20260406_224346.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:46.050497"
+  },
+  {
+    "plate": "MEETTT",
+    "image": "dashboard/captures/plate_20260406_224348.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:48.340556"
+  },
+  {
+    "plate": "SIADS",
+    "image": "dashboard/captures/plate_20260406_224355.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:55.148328"
+  },
+  {
+    "plate": "COYWS",
+    "image": "dashboard/captures/plate_20260406_224356.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:56.235755"
+  },
+  {
+    "plate": "EEFE3",
+    "image": "dashboard/captures/plate_20260406_224358.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:58.079571"
+  },
+  {
+    "plate": "ACHEAE",
+    "image": "dashboard/captures/plate_20260406_224359.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:43:59.540187"
+  },
+  {
+    "plate": "EOIDS",
+    "image": "dashboard/captures/plate_20260406_224401.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:01.187731"
+  },
+  {
+    "plate": "YT7IE",
+    "image": "dashboard/captures/plate_20260406_224403.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:03.268369"
+  },
+  {
+    "plate": "WOMIAT",
+    "image": "dashboard/captures/plate_20260406_224407.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:07.932685"
+  },
+  {
+    "plate": "OHAEE",
+    "image": "dashboard/captures/plate_20260406_224408.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:08.899067"
+  },
+  {
+    "plate": "WOLIAL",
+    "image": "dashboard/captures/plate_20260406_224411.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:11.282928"
+  },
+  {
+    "plate": "EEETE",
+    "image": "dashboard/captures/plate_20260406_224412.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:12.604963"
+  },
+  {
+    "plate": "MSETT",
+    "image": "dashboard/captures/plate_20260406_224414.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:14.749339"
+  },
+  {
+    "plate": "AREAL",
+    "image": "dashboard/captures/plate_20260406_224418.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:18.096700"
+  },
+  {
+    "plate": "EYOIDE",
+    "image": "dashboard/captures/plate_20260406_224421.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:21.590916"
+  },
+  {
+    "plate": "CONFI",
+    "image": "dashboard/captures/plate_20260406_224423.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:23.462009"
+  },
+  {
+    "plate": "GUEAS",
+    "image": "dashboard/captures/plate_20260406_224424.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:24.420332"
+  },
+  {
+    "plate": "NOEKT",
+    "image": "dashboard/captures/plate_20260406_224425.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:25.065881"
+  },
+  {
+    "plate": "YTAIE",
+    "image": "dashboard/captures/plate_20260406_224425.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:25.154811"
+  },
+  {
+    "plate": "REALA",
+    "image": "dashboard/captures/plate_20260406_224426.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:26.426604"
+  },
+  {
+    "plate": "MERLL",
+    "image": "dashboard/captures/plate_20260406_224430.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:30.174631"
+  },
+  {
+    "plate": "COUILS",
+    "image": "dashboard/captures/plate_20260406_224430.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:30.253232"
+  },
+  {
+    "plate": "OUTEL",
+    "image": "dashboard/captures/plate_20260406_224432.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:32.201288"
+  },
+  {
+    "plate": "OHAAY",
+    "image": "dashboard/captures/plate_20260406_224432.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:32.389418"
+  },
+  {
+    "plate": "EYFSIKE",
+    "image": "dashboard/captures/plate_20260406_224433.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:33.137180"
+  },
+  {
+    "plate": "ESSOE",
+    "image": "dashboard/captures/plate_20260406_224435.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:35.069245"
+  },
+  {
+    "plate": "0SADIL",
+    "image": "dashboard/captures/plate_20260406_224436.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:36.129454"
+  },
+  {
+    "plate": "PEETT",
+    "image": "dashboard/captures/plate_20260406_224438.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:38.508859"
+  },
+  {
+    "plate": "EAEIDL",
+    "image": "dashboard/captures/plate_20260406_224440.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:40.597746"
+  },
+  {
+    "plate": "REGSEY",
+    "image": "dashboard/captures/plate_20260406_224441.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:41.935973"
+  },
+  {
+    "plate": "COYDEE",
+    "image": "dashboard/captures/plate_20260406_224443.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:43.584960"
+  },
+  {
+    "plate": "BAOAE",
+    "image": "dashboard/captures/plate_20260406_224445.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:45.208868"
+  },
+  {
+    "plate": "CETPE",
+    "image": "dashboard/captures/plate_20260406_224447.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:47.580087"
+  },
+  {
+    "plate": "STRAS",
+    "image": "dashboard/captures/plate_20260406_224448.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:48.447410"
+  },
+  {
+    "plate": "5LEEES",
+    "image": "dashboard/captures/plate_20260406_224449.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:49.144719"
+  },
+  {
+    "plate": "SY410",
+    "image": "dashboard/captures/plate_20260406_224452.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:52.445550"
+  },
+  {
+    "plate": "COMEI5",
+    "image": "dashboard/captures/plate_20260406_224453.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:53.035290"
+  },
+  {
+    "plate": "HKJIA",
+    "image": "dashboard/captures/plate_20260406_224453.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:53.474493"
+  },
+  {
+    "plate": "REAIS",
+    "image": "dashboard/captures/plate_20260406_224456.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:56.408026"
+  },
+  {
+    "plate": "MERAIE",
+    "image": "dashboard/captures/plate_20260406_224458.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:58.216721"
+  },
+  {
+    "plate": "ONEEE",
+    "image": "dashboard/captures/plate_20260406_224458.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:44:58.375355"
+  },
+  {
+    "plate": "PTAAE",
+    "image": "dashboard/captures/plate_20260406_224502.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:02.657019"
+  },
+  {
+    "plate": "ANEFE",
+    "image": "dashboard/captures/plate_20260406_224505.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:05.574041"
+  },
+  {
+    "plate": "PUTEL",
+    "image": "dashboard/captures/plate_20260406_224507.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:07.788849"
+  },
+  {
+    "plate": "CETTE",
+    "image": "dashboard/captures/plate_20260406_224508.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:08.016107"
+  },
+  {
+    "plate": "MES11",
+    "image": "dashboard/captures/plate_20260406_224510.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:10.248557"
+  },
+  {
+    "plate": "THEIE",
+    "image": "dashboard/captures/plate_20260406_224510.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:10.465200"
+  },
+  {
+    "plate": "YTANE",
+    "image": "dashboard/captures/plate_20260406_224511.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:11.354540"
+  },
+  {
+    "plate": "EER4IL",
+    "image": "dashboard/captures/plate_20260406_224512.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:12.185147"
+  },
+  {
+    "plate": "HESETTI",
+    "image": "dashboard/captures/plate_20260406_224513.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:13.404841"
+  },
+  {
+    "plate": "EUIKE",
+    "image": "dashboard/captures/plate_20260406_224515.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:15.936956"
+  },
+  {
+    "plate": "ESETO",
+    "image": "dashboard/captures/plate_20260406_224518.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:18.649322"
+  },
+  {
+    "plate": "ATLRE",
+    "image": "dashboard/captures/plate_20260406_224519.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:19.524307"
+  },
+  {
+    "plate": "RUAEC",
+    "image": "dashboard/captures/plate_20260406_224519.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:19.801381"
+  },
+  {
+    "plate": "MEETO",
+    "image": "dashboard/captures/plate_20260406_224521.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:21.895612"
+  },
+  {
+    "plate": "PATAS",
+    "image": "dashboard/captures/plate_20260406_224522.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:22.244021"
+  },
+  {
+    "plate": "ORAEE",
+    "image": "dashboard/captures/plate_20260406_224523.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:23.155390"
+  },
+  {
+    "plate": "NEOEA",
+    "image": "dashboard/captures/plate_20260406_224525.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:25.885701"
+  },
+  {
+    "plate": "9ELIE",
+    "image": "dashboard/captures/plate_20260406_224526.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:26.029279"
+  },
+  {
+    "plate": "NOSIE",
+    "image": "dashboard/captures/plate_20260406_224528.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:28.322270"
+  },
+  {
+    "plate": "ESATH",
+    "image": "dashboard/captures/plate_20260406_224528.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:28.824074"
+  },
+  {
+    "plate": "OSAIE",
+    "image": "dashboard/captures/plate_20260406_224529.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:29.756519"
+  },
+  {
+    "plate": "OF7ETE",
+    "image": "dashboard/captures/plate_20260406_224529.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:29.834003"
+  },
+  {
+    "plate": "MEETT8",
+    "image": "dashboard/captures/plate_20260406_224531.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:31.792120"
+  },
+  {
+    "plate": "9PETE",
+    "image": "dashboard/captures/plate_20260406_224532.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:32.761711"
+  },
+  {
+    "plate": "SOSAKNE",
+    "image": "dashboard/captures/plate_20260406_224533.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:33.460518"
+  },
+  {
+    "plate": "CNERE",
+    "image": "dashboard/captures/plate_20260406_224533.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:33.606080"
+  },
+  {
+    "plate": "PEESTT",
+    "image": "dashboard/captures/plate_20260406_224534.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:34.191610"
+  },
+  {
+    "plate": "AHITA",
+    "image": "dashboard/captures/plate_20260406_224535.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:35.033066"
+  },
+  {
+    "plate": "WEERIE",
+    "image": "dashboard/captures/plate_20260406_224536.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:36.712800"
+  },
+  {
+    "plate": "GENER",
+    "image": "dashboard/captures/plate_20260406_224537.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:37.675753"
+  },
+  {
+    "plate": "766FA",
+    "image": "dashboard/captures/plate_20260406_224539.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:39.157947"
+  },
+  {
+    "plate": "PHSALE",
+    "image": "dashboard/captures/plate_20260406_224539.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:39.236216"
+  },
+  {
+    "plate": "OEMAE",
+    "image": "dashboard/captures/plate_20260406_224540.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:40.324911"
+  },
+  {
+    "plate": "MESTO",
+    "image": "dashboard/captures/plate_20260406_224540.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:40.399351"
+  },
+  {
+    "plate": "OHETE",
+    "image": "dashboard/captures/plate_20260406_224540.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:40.539668"
+  },
+  {
+    "plate": "COYTN",
+    "image": "dashboard/captures/plate_20260406_224541.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:41.941355"
+  },
+  {
+    "plate": "MEEAT",
+    "image": "dashboard/captures/plate_20260406_224542.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:42.355838"
+  },
+  {
+    "plate": "AYITT",
+    "image": "dashboard/captures/plate_20260406_224543.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:43.158659"
+  },
+  {
+    "plate": "MEAIE",
+    "image": "dashboard/captures/plate_20260406_224544.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:44.029096"
+  },
+  {
+    "plate": "ESTT0",
+    "image": "dashboard/captures/plate_20260406_224544.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:44.955283"
+  },
+  {
+    "plate": "NEOUEALT",
+    "image": "dashboard/captures/plate_20260406_224545.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:45.765991"
+  },
+  {
+    "plate": "AORTN",
+    "image": "dashboard/captures/plate_20260406_224547.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:47.767266"
+  },
+  {
+    "plate": "OF6FO",
+    "image": "dashboard/captures/plate_20260406_224547.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:47.843455"
+  },
+  {
+    "plate": "TESWE",
+    "image": "dashboard/captures/plate_20260406_224548.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:48.172892"
+  },
+  {
+    "plate": "TSEEE",
+    "image": "dashboard/captures/plate_20260406_224548.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:48.532027"
+  },
+  {
+    "plate": "OFEEE",
+    "image": "dashboard/captures/plate_20260406_224548.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:48.674292"
+  },
+  {
+    "plate": "EESYART",
+    "image": "dashboard/captures/plate_20260406_224551.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:51.971484"
+  },
+  {
+    "plate": "AKCAL",
+    "image": "dashboard/captures/plate_20260406_224552.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:52.304021"
+  },
+  {
+    "plate": "NESETT",
+    "image": "dashboard/captures/plate_20260406_224552.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:52.873497"
+  },
+  {
+    "plate": "PARIS",
+    "image": "dashboard/captures/plate_20260406_224553.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:53.470262"
+  },
+  {
+    "plate": "MEAT8",
+    "image": "dashboard/captures/plate_20260406_224553.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:53.546649"
+  },
+  {
+    "plate": "EYIDE",
+    "image": "dashboard/captures/plate_20260406_224555.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:55.085038"
+  },
+  {
+    "plate": "YHORE",
+    "image": "dashboard/captures/plate_20260406_224555.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:55.237138"
+  },
+  {
+    "plate": "BP4AE",
+    "image": "dashboard/captures/plate_20260406_224556.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:56.104215"
+  },
+  {
+    "plate": "EE4OT",
+    "image": "dashboard/captures/plate_20260406_224559.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:45:59.207460"
+  },
+  {
+    "plate": "EEAHI",
+    "image": "dashboard/captures/plate_20260406_224600.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:00.011223"
+  },
+  {
+    "plate": "ERAILS",
+    "image": "dashboard/captures/plate_20260406_224603.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:03.419446"
+  },
+  {
+    "plate": "ETAI3",
+    "image": "dashboard/captures/plate_20260406_224605.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:05.573473"
+  },
+  {
+    "plate": "EEETO",
+    "image": "dashboard/captures/plate_20260406_224607.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:07.523452"
+  },
+  {
+    "plate": "COLES",
+    "image": "dashboard/captures/plate_20260406_224608.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:08.524435"
+  },
+  {
+    "plate": "EYPOHES",
+    "image": "dashboard/captures/plate_20260406_224612.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:12.292721"
+  },
+  {
+    "plate": "OHA7AIE",
+    "image": "dashboard/captures/plate_20260406_224614.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:14.756480"
+  },
+  {
+    "plate": "EOAEAL",
+    "image": "dashboard/captures/plate_20260406_224615.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:15.358175"
+  },
+  {
+    "plate": "PEETE",
+    "image": "dashboard/captures/plate_20260406_224616.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:16.088517"
+  },
+  {
+    "plate": "COYEE",
+    "image": "dashboard/captures/plate_20260406_224616.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:16.973175"
+  },
+  {
+    "plate": "ASETT",
+    "image": "dashboard/captures/plate_20260406_224617.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:17.868190"
+  },
+  {
+    "plate": "BSTAEE",
+    "image": "dashboard/captures/plate_20260406_224619.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:19.292241"
+  },
+  {
+    "plate": "MORTN",
+    "image": "dashboard/captures/plate_20260406_224621.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:21.414068"
+  },
+  {
+    "plate": "1FLAA",
+    "image": "dashboard/captures/plate_20260406_224622.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:22.256748"
+  },
+  {
+    "plate": "ONSETE",
+    "image": "dashboard/captures/plate_20260406_224622.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:22.539055"
+  },
+  {
+    "plate": "YL3ANIL",
+    "image": "dashboard/captures/plate_20260406_224625.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:25.193964"
+  },
+  {
+    "plate": "COUAE",
+    "image": "dashboard/captures/plate_20260406_224625.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:25.990821"
+  },
+  {
+    "plate": "WOAEA",
+    "image": "dashboard/captures/plate_20260406_224628.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:28.633368"
+  },
+  {
+    "plate": "OLAEET",
+    "image": "dashboard/captures/plate_20260406_224628.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:28.716972"
+  },
+  {
+    "plate": "AROFA",
+    "image": "dashboard/captures/plate_20260406_224630.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:30.224001"
+  },
+  {
+    "plate": "MERTO",
+    "image": "dashboard/captures/plate_20260406_224630.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:30.302454"
+  },
+  {
+    "plate": "PSEEE",
+    "image": "dashboard/captures/plate_20260406_224630.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:30.381105"
+  },
+  {
+    "plate": "WANEE",
+    "image": "dashboard/captures/plate_20260406_224631.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:31.431803"
+  },
+  {
+    "plate": "WENEE",
+    "image": "dashboard/captures/plate_20260406_224638.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:38.521444"
+  },
+  {
+    "plate": "KERSY",
+    "image": "dashboard/captures/plate_20260406_224638.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:38.828573"
+  },
+  {
+    "plate": "GHSEE",
+    "image": "dashboard/captures/plate_20260406_224638.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:38.987737"
+  },
+  {
+    "plate": "ODIDS",
+    "image": "dashboard/captures/plate_20260406_224640.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:40.006128"
+  },
+  {
+    "plate": "SAARE",
+    "image": "dashboard/captures/plate_20260406_224640.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:40.294083"
+  },
+  {
+    "plate": "MEETE",
+    "image": "dashboard/captures/plate_20260406_224640.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:40.867541"
+  },
+  {
+    "plate": "AONFP",
+    "image": "dashboard/captures/plate_20260406_224642.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:42.964317"
+  },
+  {
+    "plate": "WEREA",
+    "image": "dashboard/captures/plate_20260406_224645.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:45.755682"
+  },
+  {
+    "plate": "WORTE",
+    "image": "dashboard/captures/plate_20260406_224646.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:46.708377"
+  },
+  {
+    "plate": "AORTE",
+    "image": "dashboard/captures/plate_20260406_224649.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:49.072646"
+  },
+  {
+    "plate": "SAAEE",
+    "image": "dashboard/captures/plate_20260406_224649.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:49.355027"
+  },
+  {
+    "plate": "YH7ETE",
+    "image": "dashboard/captures/plate_20260406_224652.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:52.630911"
+  },
+  {
+    "plate": "SARAA4",
+    "image": "dashboard/captures/plate_20260406_224652.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:52.972371"
+  },
+  {
+    "plate": "SF66PS",
+    "image": "dashboard/captures/plate_20260406_224653.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:53.518554"
+  },
+  {
+    "plate": "A7GEILE",
+    "image": "dashboard/captures/plate_20260406_224653.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:53.600946"
+  },
+  {
+    "plate": "ROME5",
+    "image": "dashboard/captures/plate_20260406_224655.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:55.909568"
+  },
+  {
+    "plate": "ERAL35",
+    "image": "dashboard/captures/plate_20260406_224658.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:58.128051"
+  },
+  {
+    "plate": "OAVANE",
+    "image": "dashboard/captures/plate_20260406_224659.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:46:59.802402"
+  },
+  {
+    "plate": "COYSOUKE",
+    "image": "dashboard/captures/plate_20260406_224703.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:03.643657"
+  },
+  {
+    "plate": "OHAETE",
+    "image": "dashboard/captures/plate_20260406_224703.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:03.789712"
+  },
+  {
+    "plate": "RAREE",
+    "image": "dashboard/captures/plate_20260406_224704.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:04.355949"
+  },
+  {
+    "plate": "OSIKE",
+    "image": "dashboard/captures/plate_20260406_224704.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:04.912476"
+  },
+  {
+    "plate": "OF6F4",
+    "image": "dashboard/captures/plate_20260406_224704.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:04.995154"
+  },
+  {
+    "plate": "CC9IH",
+    "image": "dashboard/captures/plate_20260406_224706.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:06.539160"
+  },
+  {
+    "plate": "AVISA",
+    "image": "dashboard/captures/plate_20260406_224706.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:06.880249"
+  },
+  {
+    "plate": "IALES",
+    "image": "dashboard/captures/plate_20260406_224708.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:08.175848"
+  },
+  {
+    "plate": "OTSGETT",
+    "image": "dashboard/captures/plate_20260406_224708.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:08.255820"
+  },
+  {
+    "plate": "PAMMMEY3",
+    "image": "dashboard/captures/plate_20260406_224711.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:11.476923"
+  },
+  {
+    "plate": "OTPARAY",
+    "image": "dashboard/captures/plate_20260406_224711.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:11.777324"
+  },
+  {
+    "plate": "OH7IE",
+    "image": "dashboard/captures/plate_20260406_224712.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:12.553039"
+  },
+  {
+    "plate": "OSAAT",
+    "image": "dashboard/captures/plate_20260406_224714.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:14.979212"
+  },
+  {
+    "plate": "OENEAL",
+    "image": "dashboard/captures/plate_20260406_224715.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:15.117334"
+  },
+  {
+    "plate": "EREFS",
+    "image": "dashboard/captures/plate_20260406_224718.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:18.298054"
+  },
+  {
+    "plate": "MOEEE",
+    "image": "dashboard/captures/plate_20260406_224725.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:25.117013"
+  },
+  {
+    "plate": "DKIOE",
+    "image": "dashboard/captures/plate_20260406_224725.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:25.286561"
+  },
+  {
+    "plate": "TTHAT",
+    "image": "dashboard/captures/plate_20260406_224728.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:28.083291"
+  },
+  {
+    "plate": "AEFAN",
+    "image": "dashboard/captures/plate_20260406_224730.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:30.452599"
+  },
+  {
+    "plate": "EEEIINET",
+    "image": "dashboard/captures/plate_20260406_224732.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:32.359099"
+  },
+  {
+    "plate": "OEOF3",
+    "image": "dashboard/captures/plate_20260406_224732.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:32.771231"
+  },
+  {
+    "plate": "IMERW",
+    "image": "dashboard/captures/plate_20260406_224733.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:33.884205"
+  },
+  {
+    "plate": "WEEITN",
+    "image": "dashboard/captures/plate_20260406_224740.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:40.400376"
+  },
+  {
+    "plate": "COMSOT",
+    "image": "dashboard/captures/plate_20260406_224741.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:41.273716"
+  },
+  {
+    "plate": "MSYTN",
+    "image": "dashboard/captures/plate_20260406_224743.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:43.122944"
+  },
+  {
+    "plate": "EYALE",
+    "image": "dashboard/captures/plate_20260406_224744.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:44.040539"
+  },
+  {
+    "plate": "METI8",
+    "image": "dashboard/captures/plate_20260406_224745.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:45.193336"
+  },
+  {
+    "plate": "OTAAE",
+    "image": "dashboard/captures/plate_20260406_224747.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:47.869278"
+  },
+  {
+    "plate": "STYKO",
+    "image": "dashboard/captures/plate_20260406_224749.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:49.541621"
+  },
+  {
+    "plate": "MRI10",
+    "image": "dashboard/captures/plate_20260406_224751.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:51.542032"
+  },
+  {
+    "plate": "MES10",
+    "image": "dashboard/captures/plate_20260406_224754.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:54.807984"
+  },
+  {
+    "plate": "MESITT",
+    "image": "dashboard/captures/plate_20260406_224755.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:55.735890"
+  },
+  {
+    "plate": "DEALS",
+    "image": "dashboard/captures/plate_20260406_224755.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:55.882582"
+  },
+  {
+    "plate": "MEAREE",
+    "image": "dashboard/captures/plate_20260406_224757.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:57.678938"
+  },
+  {
+    "plate": "WORIN",
+    "image": "dashboard/captures/plate_20260406_224758.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:47:58.206262"
+  },
+  {
+    "plate": "EYAAE",
+    "image": "dashboard/captures/plate_20260406_224800.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:00.478305"
+  },
+  {
+    "plate": "SOEIH",
+    "image": "dashboard/captures/plate_20260406_224800.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:00.628749"
+  },
+  {
+    "plate": "OF6FS",
+    "image": "dashboard/captures/plate_20260406_224802.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:02.202883"
+  },
+  {
+    "plate": "SEYAE",
+    "image": "dashboard/captures/plate_20260406_224802.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:02.285719"
+  },
+  {
+    "plate": "ONAEE",
+    "image": "dashboard/captures/plate_20260406_224805.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:05.557088"
+  },
+  {
+    "plate": "OFAIE",
+    "image": "dashboard/captures/plate_20260406_224807.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:07.878973"
+  },
+  {
+    "plate": "ESIDEE",
+    "image": "dashboard/captures/plate_20260406_224808.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:08.689418"
+  },
+  {
+    "plate": "OCISS",
+    "image": "dashboard/captures/plate_20260406_224809.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:09.843776"
+  },
+  {
+    "plate": "WESFF",
+    "image": "dashboard/captures/plate_20260406_224813.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:13.519182"
+  },
+  {
+    "plate": "GHS17GET",
+    "image": "dashboard/captures/plate_20260406_224814.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:14.360179"
+  },
+  {
+    "plate": "PASS4IL",
+    "image": "dashboard/captures/plate_20260406_224817.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:17.254993"
+  },
+  {
+    "plate": "ENIAL",
+    "image": "dashboard/captures/plate_20260406_224817.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:17.333658"
+  },
+  {
+    "plate": "SEATI",
+    "image": "dashboard/captures/plate_20260406_224820.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:20.359814"
+  },
+  {
+    "plate": "OSEET",
+    "image": "dashboard/captures/plate_20260406_224820.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:20.514337"
+  },
+  {
+    "plate": "YAETE",
+    "image": "dashboard/captures/plate_20260406_224823.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:23.330721"
+  },
+  {
+    "plate": "MEETT",
+    "image": "dashboard/captures/plate_20260406_224824.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:24.221066"
+  },
+  {
+    "plate": "OHAAJ",
+    "image": "dashboard/captures/plate_20260406_224824.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:24.374805"
+  },
+  {
+    "plate": "SOEILE",
+    "image": "dashboard/captures/plate_20260406_224825.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:25.923789"
+  },
+  {
+    "plate": "SYTTT",
+    "image": "dashboard/captures/plate_20260406_224826.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:26.450153"
+  },
+  {
+    "plate": "COMER1",
+    "image": "dashboard/captures/plate_20260406_224826.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:26.680935"
+  },
+  {
+    "plate": "OOLEI",
+    "image": "dashboard/captures/plate_20260406_224827.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:27.155319"
+  },
+  {
+    "plate": "AESY18",
+    "image": "dashboard/captures/plate_20260406_224829.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:29.684463"
+  },
+  {
+    "plate": "MSETN",
+    "image": "dashboard/captures/plate_20260406_224831.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:31.187904"
+  },
+  {
+    "plate": "OUFOIH",
+    "image": "dashboard/captures/plate_20260406_224835.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:35.085755"
+  },
+  {
+    "plate": "RUAEE",
+    "image": "dashboard/captures/plate_20260406_224836.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:36.242203"
+  },
+  {
+    "plate": "RINEFE",
+    "image": "dashboard/captures/plate_20260406_224837.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:37.800386"
+  },
+  {
+    "plate": "LATLL",
+    "image": "dashboard/captures/plate_20260406_224839.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:39.350697"
+  },
+  {
+    "plate": "9IIDES",
+    "image": "dashboard/captures/plate_20260406_224839.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:39.502103"
+  },
+  {
+    "plate": "ISIEEE",
+    "image": "dashboard/captures/plate_20260406_224842.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:42.691091"
+  },
+  {
+    "plate": "WESTO",
+    "image": "dashboard/captures/plate_20260406_224843.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:43.521881"
+  },
+  {
+    "plate": "ON7EE",
+    "image": "dashboard/captures/plate_20260406_224843.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:43.601537"
+  },
+  {
+    "plate": "UODES",
+    "image": "dashboard/captures/plate_20260406_224844.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:44.520807"
+  },
+  {
+    "plate": "PHEGTE",
+    "image": "dashboard/captures/plate_20260406_224847.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:47.522246"
+  },
+  {
+    "plate": "AEIT8",
+    "image": "dashboard/captures/plate_20260406_224852.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:52.154131"
+  },
+  {
+    "plate": "RELFS",
+    "image": "dashboard/captures/plate_20260406_224852.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:52.991109"
+  },
+  {
+    "plate": "REOLEI",
+    "image": "dashboard/captures/plate_20260406_224854.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:54.374684"
+  },
+  {
+    "plate": "ESETT",
+    "image": "dashboard/captures/plate_20260406_224858.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:58.137882"
+  },
+  {
+    "plate": "OASSTEL",
+    "image": "dashboard/captures/plate_20260406_224859.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:59.062092"
+  },
+  {
+    "plate": "EUFSKE",
+    "image": "dashboard/captures/plate_20260406_224859.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:48:59.625964"
+  },
+  {
+    "plate": "OSIAT",
+    "image": "dashboard/captures/plate_20260406_224902.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:02.139576"
+  },
+  {
+    "plate": "OYFEEL",
+    "image": "dashboard/captures/plate_20260406_224903.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:03.200141"
+  },
+  {
+    "plate": "7ATOT",
+    "image": "dashboard/captures/plate_20260406_224904.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:04.414788"
+  },
+  {
+    "plate": "NALILL",
+    "image": "dashboard/captures/plate_20260406_224904.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:04.731022"
+  },
+  {
+    "plate": "PSIDE",
+    "image": "dashboard/captures/plate_20260406_224909.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:09.466572"
+  },
+  {
+    "plate": "EEIDE",
+    "image": "dashboard/captures/plate_20260406_224910.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:10.306183"
+  },
+  {
+    "plate": "EVINE",
+    "image": "dashboard/captures/plate_20260406_224911.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:11.997684"
+  },
+  {
+    "plate": "OSIEEE",
+    "image": "dashboard/captures/plate_20260406_224915.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:15.509844"
+  },
+  {
+    "plate": "ORTEE",
+    "image": "dashboard/captures/plate_20260406_224920.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:20.344767"
+  },
+  {
+    "plate": "PWRAE",
+    "image": "dashboard/captures/plate_20260406_224920.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:20.626215"
+  },
+  {
+    "plate": "ORTTT",
+    "image": "dashboard/captures/plate_20260406_224922.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:22.100754"
+  },
+  {
+    "plate": "OTEIT",
+    "image": "dashboard/captures/plate_20260406_224922.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:22.812929"
+  },
+  {
+    "plate": "ERALI3",
+    "image": "dashboard/captures/plate_20260406_224922.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:22.961202"
+  },
+  {
+    "plate": "OHORE",
+    "image": "dashboard/captures/plate_20260406_224923.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:23.676645"
+  },
+  {
+    "plate": "RORAL",
+    "image": "dashboard/captures/plate_20260406_224925.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:25.150745"
+  },
+  {
+    "plate": "ERANS",
+    "image": "dashboard/captures/plate_20260406_224925.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:25.360510"
+  },
+  {
+    "plate": "LAYUS",
+    "image": "dashboard/captures/plate_20260406_224927.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:27.967603"
+  },
+  {
+    "plate": "OTEER",
+    "image": "dashboard/captures/plate_20260406_224929.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:29.176403"
+  },
+  {
+    "plate": "OFETE",
+    "image": "dashboard/captures/plate_20260406_224931.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:31.643189"
+  },
+  {
+    "plate": "OSIDEIT",
+    "image": "dashboard/captures/plate_20260406_224932.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:32.547597"
+  },
+  {
+    "plate": "OFAEEEE",
+    "image": "dashboard/captures/plate_20260406_224934.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:34.952109"
+  },
+  {
+    "plate": "OUIKE",
+    "image": "dashboard/captures/plate_20260406_224935.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:35.997988"
+  },
+  {
+    "plate": "OHEEE",
+    "image": "dashboard/captures/plate_20260406_224936.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:36.948639"
+  },
+  {
+    "plate": "OATDEL",
+    "image": "dashboard/captures/plate_20260406_224937.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:37.847470"
+  },
+  {
+    "plate": "OYIDE",
+    "image": "dashboard/captures/plate_20260406_224938.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:38.679565"
+  },
+  {
+    "plate": "PSIDEFL",
+    "image": "dashboard/captures/plate_20260406_224942.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:42.652158"
+  },
+  {
+    "plate": "EOTAE",
+    "image": "dashboard/captures/plate_20260406_224945.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:45.253544"
+  },
+  {
+    "plate": "PSYOUS",
+    "image": "dashboard/captures/plate_20260406_224946.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:46.757386"
+  },
+  {
+    "plate": "IKIAT",
+    "image": "dashboard/captures/plate_20260406_224947.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-06T22:49:47.257910"
+  },
+  {
+    "plate": "PEALE",
+    "image": "dashboard/captures/plate_20260413_152435.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:35.589042"
+  },
+  {
+    "plate": "PCAPERMAGE",
+    "image": "dashboard/captures/plate_20260413_152436.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:36.224680"
+  },
+  {
+    "plate": "EDGESLPRN",
+    "image": "dashboard/captures/plate_20260413_152436.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:36.559339"
+  },
+  {
+    "plate": "ENEMA",
+    "image": "dashboard/captures/plate_20260413_152436.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:36.990665"
+  },
+  {
+    "plate": "EACEALPR",
+    "image": "dashboard/captures/plate_20260413_152437.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:37.269315"
+  },
+  {
+    "plate": "CAPTUREIMAGE",
+    "image": "dashboard/captures/plate_20260413_152437.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:37.624291"
+  },
+  {
+    "plate": "GEALP",
+    "image": "dashboard/captures/plate_20260413_152437.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:37.944863"
+  },
+  {
+    "plate": "EDGEALPR",
+    "image": "dashboard/captures/plate_20260413_152439.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:39.151195"
+  },
+  {
+    "plate": "CAPTUREMAGE",
+    "image": "dashboard/captures/plate_20260413_152439.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:39.364419"
+  },
+  {
+    "plate": "EALPR",
+    "image": "dashboard/captures/plate_20260413_152440.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:40.431001"
+  },
+  {
+    "plate": "FENSY",
+    "image": "dashboard/captures/plate_20260413_152453.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:24:53.541726"
+  },
+  {
+    "plate": "CAE5CAFSEE",
+    "image": "dashboard/captures/plate_20260413_152501.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:01.173840"
+  },
+  {
+    "plate": "NARCAFESM",
+    "image": "dashboard/captures/plate_20260413_152501.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:01.966131"
+  },
+  {
+    "plate": "TE5CAT",
+    "image": "dashboard/captures/plate_20260413_152502.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:02.485074"
+  },
+  {
+    "plate": "SAAGJ",
+    "image": "dashboard/captures/plate_20260413_152502.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:02.556117"
+  },
+  {
+    "plate": "CAKE5CAFEMEUSE",
+    "image": "dashboard/captures/plate_20260413_152503.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:03.149865"
+  },
+  {
+    "plate": "COFFEEWEUTSE",
+    "image": "dashboard/captures/plate_20260413_152503.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:03.687703"
+  },
+  {
+    "plate": "CSIEM174",
+    "image": "dashboard/captures/plate_20260413_152509.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:09.953280"
+  },
+  {
+    "plate": "LEGGE",
+    "image": "dashboard/captures/plate_20260413_152510.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:10.033066"
+  },
+  {
+    "plate": "TEAAR",
+    "image": "dashboard/captures/plate_20260413_152510.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:10.524901"
+  },
+  {
+    "plate": "WOSFAW",
+    "image": "dashboard/captures/plate_20260413_152510.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:10.910386"
+  },
+  {
+    "plate": "KAVAS",
+    "image": "dashboard/captures/plate_20260413_152511.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:11.515412"
+  },
+  {
+    "plate": "LVTAY",
+    "image": "dashboard/captures/plate_20260413_152517.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:17.096467"
+  },
+  {
+    "plate": "LHUCIIIA",
+    "image": "dashboard/captures/plate_20260413_152523.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:23.419718"
+  },
+  {
+    "plate": "NIBEY",
+    "image": "dashboard/captures/plate_20260413_152526.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:26.122401"
+  },
+  {
+    "plate": "ARISES",
+    "image": "dashboard/captures/plate_20260413_152527.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:27.457720"
+  },
+  {
+    "plate": "SATER",
+    "image": "dashboard/captures/plate_20260413_152528.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:28.231344"
+  },
+  {
+    "plate": "INDEY",
+    "image": "dashboard/captures/plate_20260413_152530.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:30.362215"
+  },
+  {
+    "plate": "AKONS",
+    "image": "dashboard/captures/plate_20260413_152530.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:30.434436"
+  },
+  {
+    "plate": "YFISSEY",
+    "image": "dashboard/captures/plate_20260413_152531.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:31.688672"
+  },
+  {
+    "plate": "AYUSY",
+    "image": "dashboard/captures/plate_20260413_152532.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:32.470199"
+  },
+  {
+    "plate": "AITCLA",
+    "image": "dashboard/captures/plate_20260413_152532.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:32.640756"
+  },
+  {
+    "plate": "RANKS",
+    "image": "dashboard/captures/plate_20260413_152533.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:33.458942"
+  },
+  {
+    "plate": "NIBSYY",
+    "image": "dashboard/captures/plate_20260413_152534.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:25:34.798420"
+  },
+  {
+    "plate": "WPCIN",
+    "image": "dashboard/captures/plate_20260413_154852.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:48:52.708522"
+  },
+  {
+    "plate": "RAPDEE",
+    "image": "dashboard/captures/plate_20260413_155239.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:39.274132"
+  },
+  {
+    "plate": "FRAPPRE",
+    "image": "dashboard/captures/plate_20260413_155240.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:40.437801"
+  },
+  {
+    "plate": "SPSYRTSOAR",
+    "image": "dashboard/captures/plate_20260413_155241.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:41.396145"
+  },
+  {
+    "plate": "RAPPES",
+    "image": "dashboard/captures/plate_20260413_155241.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:41.471678"
+  },
+  {
+    "plate": "RAPPPE",
+    "image": "dashboard/captures/plate_20260413_155242.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:42.462798"
+  },
+  {
+    "plate": "SURESUO",
+    "image": "dashboard/captures/plate_20260413_155245.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:45.137364"
+  },
+  {
+    "plate": "RAPPEE",
+    "image": "dashboard/captures/plate_20260413_155245.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:45.212369"
+  },
+  {
+    "plate": "CAIEEE",
+    "image": "dashboard/captures/plate_20260413_155245.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:45.614389"
+  },
+  {
+    "plate": "SURESOO",
+    "image": "dashboard/captures/plate_20260413_155246.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:46.560957"
+  },
+  {
+    "plate": "PRAPPPE",
+    "image": "dashboard/captures/plate_20260413_155247.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:47.506569"
+  },
+  {
+    "plate": "SUEYSUOOR",
+    "image": "dashboard/captures/plate_20260413_155248.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:48.611947"
+  },
+  {
+    "plate": "GALTAE",
+    "image": "dashboard/captures/plate_20260413_155248.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:48.885316"
+  },
+  {
+    "plate": "CURTSORAT",
+    "image": "dashboard/captures/plate_20260413_155249.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:49.703702"
+  },
+  {
+    "plate": "SURESOON",
+    "image": "dashboard/captures/plate_20260413_155251.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:51.412527"
+  },
+  {
+    "plate": "REPWS",
+    "image": "dashboard/captures/plate_20260413_155253.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:53.186518"
+  },
+  {
+    "plate": "OEURE",
+    "image": "dashboard/captures/plate_20260413_155254.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:54.819384"
+  },
+  {
+    "plate": "CAEAE",
+    "image": "dashboard/captures/plate_20260413_155255.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:55.299136"
+  },
+  {
+    "plate": "SOESAR",
+    "image": "dashboard/captures/plate_20260413_155255.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:55.923424"
+  },
+  {
+    "plate": "RAPPRE",
+    "image": "dashboard/captures/plate_20260413_155256.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:56.004199"
+  },
+  {
+    "plate": "AMOGUG",
+    "image": "dashboard/captures/plate_20260413_155256.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:56.994810"
+  },
+  {
+    "plate": "AMEIAIN",
+    "image": "dashboard/captures/plate_20260413_155257.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:57.689354"
+  },
+  {
+    "plate": "SELOCUS",
+    "image": "dashboard/captures/plate_20260413_155258.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:58.017646"
+  },
+  {
+    "plate": "SELOGS",
+    "image": "dashboard/captures/plate_20260413_155259.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:52:59.689222"
+  },
+  {
+    "plate": "KEAEY",
+    "image": "dashboard/captures/plate_20260413_155301.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:01.423516"
+  },
+  {
+    "plate": "ETRYIE",
+    "image": "dashboard/captures/plate_20260413_155301.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:01.937888"
+  },
+  {
+    "plate": "RAPDPE",
+    "image": "dashboard/captures/plate_20260413_155302.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:02.144461"
+  },
+  {
+    "plate": "TRAPPES",
+    "image": "dashboard/captures/plate_20260413_155303.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:03.554104"
+  },
+  {
+    "plate": "SRTOSRTOE",
+    "image": "dashboard/captures/plate_20260413_155304.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:04.395378"
+  },
+  {
+    "plate": "FRAPPPS",
+    "image": "dashboard/captures/plate_20260413_155304.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:04.471788"
+  },
+  {
+    "plate": "SPOUTSUSOORA",
+    "image": "dashboard/captures/plate_20260413_155305.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:05.387476"
+  },
+  {
+    "plate": "EETOE",
+    "image": "dashboard/captures/plate_20260413_155305.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:05.465876"
+  },
+  {
+    "plate": "FRAPES",
+    "image": "dashboard/captures/plate_20260413_155305.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:05.541903"
+  },
+  {
+    "plate": "LEGSAE",
+    "image": "dashboard/captures/plate_20260413_155305.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:05.686954"
+  },
+  {
+    "plate": "LEEEE",
+    "image": "dashboard/captures/plate_20260413_155307.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:07.745663"
+  },
+  {
+    "plate": "MESIOE",
+    "image": "dashboard/captures/plate_20260413_155309.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:09.738987"
+  },
+  {
+    "plate": "FRAPEE",
+    "image": "dashboard/captures/plate_20260413_155310.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:10.022985"
+  },
+  {
+    "plate": "SSL0CUE",
+    "image": "dashboard/captures/plate_20260413_155312.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:12.920997"
+  },
+  {
+    "plate": "LAIIE",
+    "image": "dashboard/captures/plate_20260413_155313.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:13.063314"
+  },
+  {
+    "plate": "SS206UAY",
+    "image": "dashboard/captures/plate_20260413_155316.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:16.058057"
+  },
+  {
+    "plate": "PRAPPEE",
+    "image": "dashboard/captures/plate_20260413_155316.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:16.133360"
+  },
+  {
+    "plate": "GALEAE",
+    "image": "dashboard/captures/plate_20260413_155317.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:17.292792"
+  },
+  {
+    "plate": "SSOCVAY",
+    "image": "dashboard/captures/plate_20260413_155318.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:18.060475"
+  },
+  {
+    "plate": "SOSURTSUOORAET",
+    "image": "dashboard/captures/plate_20260413_155318.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:18.963587"
+  },
+  {
+    "plate": "RSURTSUOORAE",
+    "image": "dashboard/captures/plate_20260413_155320.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:20.189917"
+  },
+  {
+    "plate": "SOSURTSWOON",
+    "image": "dashboard/captures/plate_20260413_155321.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:21.294683"
+  },
+  {
+    "plate": "SSURTSUOORAET",
+    "image": "dashboard/captures/plate_20260413_155322.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:22.655089"
+  },
+  {
+    "plate": "SOSURTSUTOORAET",
+    "image": "dashboard/captures/plate_20260413_155323.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:23.493453"
+  },
+  {
+    "plate": "MOSUATSUSCE",
+    "image": "dashboard/captures/plate_20260413_155325.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:25.230151"
+  },
+  {
+    "plate": "OSURTSOO",
+    "image": "dashboard/captures/plate_20260413_155326.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:26.263237"
+  },
+  {
+    "plate": "SUREE",
+    "image": "dashboard/captures/plate_20260413_155327.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:27.367303"
+  },
+  {
+    "plate": "TOSUATSUOORATT",
+    "image": "dashboard/captures/plate_20260413_155328.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:28.337012"
+  },
+  {
+    "plate": "SURSWOON",
+    "image": "dashboard/captures/plate_20260413_155331.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:31.605702"
+  },
+  {
+    "plate": "PRAPPRE",
+    "image": "dashboard/captures/plate_20260413_155331.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:31.813898"
+  },
+  {
+    "plate": "KELIE",
+    "image": "dashboard/captures/plate_20260413_155332.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:32.092869"
+  },
+  {
+    "plate": "T2SV8TSCORE",
+    "image": "dashboard/captures/plate_20260413_155332.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:32.741510"
+  },
+  {
+    "plate": "RATES",
+    "image": "dashboard/captures/plate_20260413_155333.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:33.897768"
+  },
+  {
+    "plate": "FRAPPP",
+    "image": "dashboard/captures/plate_20260413_155334.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:34.338997"
+  },
+  {
+    "plate": "SOGUAY",
+    "image": "dashboard/captures/plate_20260413_155335.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:35.504741"
+  },
+  {
+    "plate": "SEL0SVEY",
+    "image": "dashboard/captures/plate_20260413_155336.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:36.668944"
+  },
+  {
+    "plate": "PSURTSOON",
+    "image": "dashboard/captures/plate_20260413_155338.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:38.898477"
+  },
+  {
+    "plate": "PRAPDEE",
+    "image": "dashboard/captures/plate_20260413_155338.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:38.979374"
+  },
+  {
+    "plate": "SS0CU2",
+    "image": "dashboard/captures/plate_20260413_155339.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:39.942484"
+  },
+  {
+    "plate": "OEOGL",
+    "image": "dashboard/captures/plate_20260413_155340.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:40.715463"
+  },
+  {
+    "plate": "ET2SVA75",
+    "image": "dashboard/captures/plate_20260413_155341.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:41.937324"
+  },
+  {
+    "plate": "CURTSOON",
+    "image": "dashboard/captures/plate_20260413_155342.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:42.836988"
+  },
+  {
+    "plate": "SALIAIE",
+    "image": "dashboard/captures/plate_20260413_155344.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:44.622615"
+  },
+  {
+    "plate": "SSLOSVAY",
+    "image": "dashboard/captures/plate_20260413_155345.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:45.302699"
+  },
+  {
+    "plate": "CELIEE",
+    "image": "dashboard/captures/plate_20260413_155345.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:45.709812"
+  },
+  {
+    "plate": "EEIDSIE",
+    "image": "dashboard/captures/plate_20260413_155346.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:46.351441"
+  },
+  {
+    "plate": "SRTSAO",
+    "image": "dashboard/captures/plate_20260413_155347.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:47.639738"
+  },
+  {
+    "plate": "FRAPBES",
+    "image": "dashboard/captures/plate_20260413_155348.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:48.745835"
+  },
+  {
+    "plate": "SHAMOOTAR",
+    "image": "dashboard/captures/plate_20260413_155351.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:51.180457"
+  },
+  {
+    "plate": "RAPEES",
+    "image": "dashboard/captures/plate_20260413_155354.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:54.446139"
+  },
+  {
+    "plate": "SORESECON",
+    "image": "dashboard/captures/plate_20260413_155355.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:55.154738"
+  },
+  {
+    "plate": "IALIP",
+    "image": "dashboard/captures/plate_20260413_155357.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:53:57.500174"
+  },
+  {
+    "plate": "FRAPPPE",
+    "image": "dashboard/captures/plate_20260413_155401.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:01.455815"
+  },
+  {
+    "plate": "WALLY",
+    "image": "dashboard/captures/plate_20260413_155402.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:02.948888"
+  },
+  {
+    "plate": "TLSOORICIEE",
+    "image": "dashboard/captures/plate_20260413_155405.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:05.886154"
+  },
+  {
+    "plate": "FRAPDES",
+    "image": "dashboard/captures/plate_20260413_155411.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:11.081067"
+  },
+  {
+    "plate": "TAELOCVEY",
+    "image": "dashboard/captures/plate_20260413_155412.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:12.058347"
+  },
+  {
+    "plate": "RAPDES",
+    "image": "dashboard/captures/plate_20260413_155413.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:13.046085"
+  },
+  {
+    "plate": "VAYINE",
+    "image": "dashboard/captures/plate_20260413_155416.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:16.861592"
+  },
+  {
+    "plate": "TAL0CVE",
+    "image": "dashboard/captures/plate_20260413_155417.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:17.031712"
+  },
+  {
+    "plate": "LASAE",
+    "image": "dashboard/captures/plate_20260413_155417.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:17.211198"
+  },
+  {
+    "plate": "CESEAE",
+    "image": "dashboard/captures/plate_20260413_155419.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:19.792574"
+  },
+  {
+    "plate": "RAPPP",
+    "image": "dashboard/captures/plate_20260413_155420.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:20.139740"
+  },
+  {
+    "plate": "AAYAG",
+    "image": "dashboard/captures/plate_20260413_155420.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:20.562018"
+  },
+  {
+    "plate": "SELSTOOTAT",
+    "image": "dashboard/captures/plate_20260413_155421.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:21.023862"
+  },
+  {
+    "plate": "EETAT",
+    "image": "dashboard/captures/plate_20260413_155423.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:23.050818"
+  },
+  {
+    "plate": "AEICE",
+    "image": "dashboard/captures/plate_20260413_155424.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:24.122444"
+  },
+  {
+    "plate": "BESMOON5",
+    "image": "dashboard/captures/plate_20260413_155426.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:26.160566"
+  },
+  {
+    "plate": "FRAPPEEE",
+    "image": "dashboard/captures/plate_20260413_155426.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:26.235529"
+  },
+  {
+    "plate": "LALIP",
+    "image": "dashboard/captures/plate_20260413_155428.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:28.519239"
+  },
+  {
+    "plate": "LSMOOR85",
+    "image": "dashboard/captures/plate_20260413_155428.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:28.595238"
+  },
+  {
+    "plate": "EESII",
+    "image": "dashboard/captures/plate_20260413_155432.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:32.564954"
+  },
+  {
+    "plate": "EYISE",
+    "image": "dashboard/captures/plate_20260413_155433.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:33.740427"
+  },
+  {
+    "plate": "BESUTOORNIEE",
+    "image": "dashboard/captures/plate_20260413_155433.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:33.880287"
+  },
+  {
+    "plate": "EEEIE",
+    "image": "dashboard/captures/plate_20260413_155437.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:37.134380"
+  },
+  {
+    "plate": "FRAPPEE",
+    "image": "dashboard/captures/plate_20260413_155439.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:39.030695"
+  },
+  {
+    "plate": "EYDAN",
+    "image": "dashboard/captures/plate_20260413_155441.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:41.203183"
+  },
+  {
+    "plate": "SALSECOR",
+    "image": "dashboard/captures/plate_20260413_155441.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:41.535706"
+  },
+  {
+    "plate": "BTSORE",
+    "image": "dashboard/captures/plate_20260413_155445.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:45.477420"
+  },
+  {
+    "plate": "RAPEGE",
+    "image": "dashboard/captures/plate_20260413_155446.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:46.954758"
+  },
+  {
+    "plate": "NOSURTSIAN",
+    "image": "dashboard/captures/plate_20260413_155449.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:49.074644"
+  },
+  {
+    "plate": "PSALIN",
+    "image": "dashboard/captures/plate_20260413_155449.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:49.644930"
+  },
+  {
+    "plate": "SEMEN",
+    "image": "dashboard/captures/plate_20260413_155449.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:49.851228"
+  },
+  {
+    "plate": "SST0CUA7",
+    "image": "dashboard/captures/plate_20260413_155450.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:50.584287"
+  },
+  {
+    "plate": "MESSINE",
+    "image": "dashboard/captures/plate_20260413_155451.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:51.492338"
+  },
+  {
+    "plate": "FRAPP",
+    "image": "dashboard/captures/plate_20260413_155453.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:53.199684"
+  },
+  {
+    "plate": "EEISE",
+    "image": "dashboard/captures/plate_20260413_155453.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:53.847046"
+  },
+  {
+    "plate": "MSURTSUOORAAT",
+    "image": "dashboard/captures/plate_20260413_155456.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:56.581851"
+  },
+  {
+    "plate": "AFRADP",
+    "image": "dashboard/captures/plate_20260413_155456.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:54:56.663410"
+  },
+  {
+    "plate": "SEROC",
+    "image": "dashboard/captures/plate_20260413_155500.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:00.189368"
+  },
+  {
+    "plate": "RTSECORIIN",
+    "image": "dashboard/captures/plate_20260413_155502.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:02.155620"
+  },
+  {
+    "plate": "CURTSUSOOTA",
+    "image": "dashboard/captures/plate_20260413_155503.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:03.240093"
+  },
+  {
+    "plate": "SURESUOOTAT",
+    "image": "dashboard/captures/plate_20260413_155504.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:04.351324"
+  },
+  {
+    "plate": "MOCRTSAO",
+    "image": "dashboard/captures/plate_20260413_155506.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:06.565810"
+  },
+  {
+    "plate": "FRAPPES",
+    "image": "dashboard/captures/plate_20260413_155506.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:06.641665"
+  },
+  {
+    "plate": "MOATSECOR",
+    "image": "dashboard/captures/plate_20260413_155507.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:07.750686"
+  },
+  {
+    "plate": "FASTHT",
+    "image": "dashboard/captures/plate_20260413_155508.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:08.255260"
+  },
+  {
+    "plate": "OSURTSENOR",
+    "image": "dashboard/captures/plate_20260413_155508.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:08.734384"
+  },
+  {
+    "plate": "RTSAGRES",
+    "image": "dashboard/captures/plate_20260413_155510.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:10.907808"
+  },
+  {
+    "plate": "MOGURTSISO5",
+    "image": "dashboard/captures/plate_20260413_155512.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:12.072717"
+  },
+  {
+    "plate": "SURESCORE",
+    "image": "dashboard/captures/plate_20260413_155513.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:13.375247"
+  },
+  {
+    "plate": "FRAPPE",
+    "image": "dashboard/captures/plate_20260413_155513.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:13.455200"
+  },
+  {
+    "plate": "NSURTSOOT",
+    "image": "dashboard/captures/plate_20260413_155514.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:14.749985"
+  },
+  {
+    "plate": "MOGURTSUC",
+    "image": "dashboard/captures/plate_20260413_155515.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:15.979652"
+  },
+  {
+    "plate": "SURESOOT",
+    "image": "dashboard/captures/plate_20260413_155517.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:17.207449"
+  },
+  {
+    "plate": "NOCURTSOOT",
+    "image": "dashboard/captures/plate_20260413_155518.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:18.246437"
+  },
+  {
+    "plate": "MOGURTSSON",
+    "image": "dashboard/captures/plate_20260413_155519.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:19.418897"
+  },
+  {
+    "plate": "RESUOGRRE",
+    "image": "dashboard/captures/plate_20260413_155520.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:20.521291"
+  },
+  {
+    "plate": "EEEOE",
+    "image": "dashboard/captures/plate_20260413_155523.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:23.053937"
+  },
+  {
+    "plate": "TOSURTSECO",
+    "image": "dashboard/captures/plate_20260413_155525.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:25.133622"
+  },
+  {
+    "plate": "SURESACO",
+    "image": "dashboard/captures/plate_20260413_155527.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:27.860516"
+  },
+  {
+    "plate": "EYINE",
+    "image": "dashboard/captures/plate_20260413_155531.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:31.097696"
+  },
+  {
+    "plate": "LITRR",
+    "image": "dashboard/captures/plate_20260413_155531.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:31.931225"
+  },
+  {
+    "plate": "AYAGE",
+    "image": "dashboard/captures/plate_20260413_155532.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:32.078211"
+  },
+  {
+    "plate": "MOSURTSOO",
+    "image": "dashboard/captures/plate_20260413_155533.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:33.406937"
+  },
+  {
+    "plate": "OFLADE",
+    "image": "dashboard/captures/plate_20260413_155534.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:34.207073"
+  },
+  {
+    "plate": "MCVRTSUSOORAEE",
+    "image": "dashboard/captures/plate_20260413_155537.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:37.417296"
+  },
+  {
+    "plate": "ORIDA",
+    "image": "dashboard/captures/plate_20260413_155539.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:39.740770"
+  },
+  {
+    "plate": "W774I",
+    "image": "dashboard/captures/plate_20260413_155541.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:41.369471"
+  },
+  {
+    "plate": "SL0CUE",
+    "image": "dashboard/captures/plate_20260413_155541.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:41.842063"
+  },
+  {
+    "plate": "MEL0GUE",
+    "image": "dashboard/captures/plate_20260413_155543.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:43.561260"
+  },
+  {
+    "plate": "WYCIL",
+    "image": "dashboard/captures/plate_20260413_155544.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:44.907594"
+  },
+  {
+    "plate": "MOCURTSOO",
+    "image": "dashboard/captures/plate_20260413_155546.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:46.535315"
+  },
+  {
+    "plate": "MSURTSOOT",
+    "image": "dashboard/captures/plate_20260413_155552.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:52.134024"
+  },
+  {
+    "plate": "SETTOG",
+    "image": "dashboard/captures/plate_20260413_155552.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:52.986829"
+  },
+  {
+    "plate": "I0SVARSE",
+    "image": "dashboard/captures/plate_20260413_155555.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:55.447311"
+  },
+  {
+    "plate": "EYLINIA",
+    "image": "dashboard/captures/plate_20260413_155558.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:58.480300"
+  },
+  {
+    "plate": "PELAGE",
+    "image": "dashboard/captures/plate_20260413_155558.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:58.586143"
+  },
+  {
+    "plate": "YRBOONES",
+    "image": "dashboard/captures/plate_20260413_155559.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:59.043996"
+  },
+  {
+    "plate": "YRSOREE",
+    "image": "dashboard/captures/plate_20260413_155559.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:59.155765"
+  },
+  {
+    "plate": "EEIIA",
+    "image": "dashboard/captures/plate_20260413_155559.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:55:59.917342"
+  },
+  {
+    "plate": "MOGURTSOO",
+    "image": "dashboard/captures/plate_20260413_155601.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:01.895102"
+  },
+  {
+    "plate": "NSURTSOAR",
+    "image": "dashboard/captures/plate_20260413_155603.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:03.047570"
+  },
+  {
+    "plate": "SATIE",
+    "image": "dashboard/captures/plate_20260413_155605.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:05.257047"
+  },
+  {
+    "plate": "OCURTSUSOORAE",
+    "image": "dashboard/captures/plate_20260413_155606.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:06.601895"
+  },
+  {
+    "plate": "RTSGREE",
+    "image": "dashboard/captures/plate_20260413_155608.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:08.832744"
+  },
+  {
+    "plate": "POWLAGE",
+    "image": "dashboard/captures/plate_20260413_155609.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:09.787903"
+  },
+  {
+    "plate": "NOSURTSOOT",
+    "image": "dashboard/captures/plate_20260413_155610.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:10.277323"
+  },
+  {
+    "plate": "SS10SYA",
+    "image": "dashboard/captures/plate_20260413_155613.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:13.013833"
+  },
+  {
+    "plate": "ASOME",
+    "image": "dashboard/captures/plate_20260413_155614.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:14.045265"
+  },
+  {
+    "plate": "PARERES",
+    "image": "dashboard/captures/plate_20260413_155617.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:17.682310"
+  },
+  {
+    "plate": "DEENA",
+    "image": "dashboard/captures/plate_20260413_155619.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:19.583232"
+  },
+  {
+    "plate": "FRAPDE",
+    "image": "dashboard/captures/plate_20260413_155621.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:21.955761"
+  },
+  {
+    "plate": "OFLIEN",
+    "image": "dashboard/captures/plate_20260413_155622.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:22.725948"
+  },
+  {
+    "plate": "PENTOCUEY",
+    "image": "dashboard/captures/plate_20260413_155624.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:24.214067"
+  },
+  {
+    "plate": "INESE",
+    "image": "dashboard/captures/plate_20260413_155625.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:25.720570"
+  },
+  {
+    "plate": "8SWOOREE",
+    "image": "dashboard/captures/plate_20260413_155627.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:27.556270"
+  },
+  {
+    "plate": "MOSURTSUSOORAE",
+    "image": "dashboard/captures/plate_20260413_155630.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:30.586844"
+  },
+  {
+    "plate": "10SVEY",
+    "image": "dashboard/captures/plate_20260413_155631.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:31.836274"
+  },
+  {
+    "plate": "TOGURTSANG",
+    "image": "dashboard/captures/plate_20260413_155634.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:34.956083"
+  },
+  {
+    "plate": "PIEEE",
+    "image": "dashboard/captures/plate_20260413_155635.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:35.991489"
+  },
+  {
+    "plate": "SOSURTSOARS",
+    "image": "dashboard/captures/plate_20260413_155636.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:36.347827"
+  },
+  {
+    "plate": "LOGVEY",
+    "image": "dashboard/captures/plate_20260413_155638.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:38.927092"
+  },
+  {
+    "plate": "SOGUE",
+    "image": "dashboard/captures/plate_20260413_155641.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:41.889483"
+  },
+  {
+    "plate": "EYINI",
+    "image": "dashboard/captures/plate_20260413_155647.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:47.237327"
+  },
+  {
+    "plate": "RLSOONERS",
+    "image": "dashboard/captures/plate_20260413_155647.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:47.644909"
+  },
+  {
+    "plate": "MOGURTSUSO5",
+    "image": "dashboard/captures/plate_20260413_155649.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:49.043954"
+  },
+  {
+    "plate": "RTSOGTIIEE",
+    "image": "dashboard/captures/plate_20260413_155651.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:51.371203"
+  },
+  {
+    "plate": "OSURTSORA",
+    "image": "dashboard/captures/plate_20260413_155652.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:52.670303"
+  },
+  {
+    "plate": "RTSUOGRAIES",
+    "image": "dashboard/captures/plate_20260413_155655.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:55.229787"
+  },
+  {
+    "plate": "AIPNS",
+    "image": "dashboard/captures/plate_20260413_155658.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:56:58.707628"
+  },
+  {
+    "plate": "NOSURTSACO",
+    "image": "dashboard/captures/plate_20260413_155702.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:02.439386"
+  },
+  {
+    "plate": "SECEDE",
+    "image": "dashboard/captures/plate_20260413_155702.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:02.580600"
+  },
+  {
+    "plate": "RTSEGRE",
+    "image": "dashboard/captures/plate_20260413_155703.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:03.805428"
+  },
+  {
+    "plate": "SEFOG",
+    "image": "dashboard/captures/plate_20260413_155708.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:08.964445"
+  },
+  {
+    "plate": "MOGURTSUGG",
+    "image": "dashboard/captures/plate_20260413_155710.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:10.300231"
+  },
+  {
+    "plate": "OCURTSOOT",
+    "image": "dashboard/captures/plate_20260413_155711.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:11.085794"
+  },
+  {
+    "plate": "OSURTSOOT",
+    "image": "dashboard/captures/plate_20260413_155713.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:13.103228"
+  },
+  {
+    "plate": "SOCURTSUSOORAE",
+    "image": "dashboard/captures/plate_20260413_155714.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:14.345368"
+  },
+  {
+    "plate": "NOCPRTSECOR",
+    "image": "dashboard/captures/plate_20260413_155716.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:16.952125"
+  },
+  {
+    "plate": "SSIOCUARSAE",
+    "image": "dashboard/captures/plate_20260413_155720.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:20.803048"
+  },
+  {
+    "plate": "OSLATSOR",
+    "image": "dashboard/captures/plate_20260413_155724.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:24.059236"
+  },
+  {
+    "plate": "OCURTSOO",
+    "image": "dashboard/captures/plate_20260413_155729.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:29.469726"
+  },
+  {
+    "plate": "ICONSE",
+    "image": "dashboard/captures/plate_20260413_155732.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:32.462451"
+  },
+  {
+    "plate": "OCURTSOOM",
+    "image": "dashboard/captures/plate_20260413_155733.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:33.373382"
+  },
+  {
+    "plate": "8TSAGRES",
+    "image": "dashboard/captures/plate_20260413_155735.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:35.194062"
+  },
+  {
+    "plate": "YITON",
+    "image": "dashboard/captures/plate_20260413_155735.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:35.755592"
+  },
+  {
+    "plate": "PLIES",
+    "image": "dashboard/captures/plate_20260413_155737.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:37.276787"
+  },
+  {
+    "plate": "OP1DG8",
+    "image": "dashboard/captures/plate_20260413_155738.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T15:57:38.732846"
+  },
+  {
+    "plate": "RAPPEE",
+    "image": "dashboard/captures/plate_20260413_160430.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:30.913899"
+  },
+  {
+    "plate": "UEALS",
+    "image": "dashboard/captures/plate_20260413_160431.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:31.335644"
+  },
+  {
+    "plate": "THE2OCUE",
+    "image": "dashboard/captures/plate_20260413_160431.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:31.473147"
+  },
+  {
+    "plate": "RAPDEE",
+    "image": "dashboard/captures/plate_20260413_160431.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:31.547469"
+  },
+  {
+    "plate": "TIEPOCUS",
+    "image": "dashboard/captures/plate_20260413_160432.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:32.931232"
+  },
+  {
+    "plate": "RAPDPE",
+    "image": "dashboard/captures/plate_20260413_160433.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:33.686593"
+  },
+  {
+    "plate": "TIELOCUN",
+    "image": "dashboard/captures/plate_20260413_160434.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:34.389166"
+  },
+  {
+    "plate": "TOOUN",
+    "image": "dashboard/captures/plate_20260413_160435.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:35.749940"
+  },
+  {
+    "plate": "EMONADRS",
+    "image": "dashboard/captures/plate_20260413_160436.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:36.408072"
+  },
+  {
+    "plate": "MJOGUE",
+    "image": "dashboard/captures/plate_20260413_160436.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:36.572481"
+  },
+  {
+    "plate": "LEECAT",
+    "image": "dashboard/captures/plate_20260413_160437.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:37.748186"
+  },
+  {
+    "plate": "METOCUE",
+    "image": "dashboard/captures/plate_20260413_160437.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:37.899087"
+  },
+  {
+    "plate": "TPSAY",
+    "image": "dashboard/captures/plate_20260413_160438.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:38.349200"
+  },
+  {
+    "plate": "TETOCUY",
+    "image": "dashboard/captures/plate_20260413_160439.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:39.567286"
+  },
+  {
+    "plate": "CNONAPES",
+    "image": "dashboard/captures/plate_20260413_160440.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:40.056760"
+  },
+  {
+    "plate": "TEFEE",
+    "image": "dashboard/captures/plate_20260413_160447.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:47.611255"
+  },
+  {
+    "plate": "ZENEH",
+    "image": "dashboard/captures/plate_20260413_160447.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:47.814821"
+  },
+  {
+    "plate": "EETAE",
+    "image": "dashboard/captures/plate_20260413_160448.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:04:48.052772"
+  },
+  {
+    "plate": "SENASE",
+    "image": "dashboard/captures/plate_20260413_161302.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:02.429267"
+  },
+  {
+    "plate": "WAWYS",
+    "image": "dashboard/captures/plate_20260413_161303.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:03.192507"
+  },
+  {
+    "plate": "ENOAWE",
+    "image": "dashboard/captures/plate_20260413_161304.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:04.879725"
+  },
+  {
+    "plate": "ENONAWE",
+    "image": "dashboard/captures/plate_20260413_161305.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:05.313210"
+  },
+  {
+    "plate": "ENOAMES",
+    "image": "dashboard/captures/plate_20260413_161305.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:05.681186"
+  },
+  {
+    "plate": "1ACINIAK",
+    "image": "dashboard/captures/plate_20260413_161309.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:09.586487"
+  },
+  {
+    "plate": "MONADEE",
+    "image": "dashboard/captures/plate_20260413_161310.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:10.746132"
+  },
+  {
+    "plate": "ANEAL",
+    "image": "dashboard/captures/plate_20260413_161321.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:21.222563"
+  },
+  {
+    "plate": "VFVLA",
+    "image": "dashboard/captures/plate_20260413_161321.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:21.294757"
+  },
+  {
+    "plate": "TNABES",
+    "image": "dashboard/captures/plate_20260413_161322.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:22.634838"
+  },
+  {
+    "plate": "NADES",
+    "image": "dashboard/captures/plate_20260413_161323.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:23.299842"
+  },
+  {
+    "plate": "ENODEN",
+    "image": "dashboard/captures/plate_20260413_161323.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:23.454422"
+  },
+  {
+    "plate": "REVEA",
+    "image": "dashboard/captures/plate_20260413_161324.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:24.350296"
+  },
+  {
+    "plate": "WHKVU",
+    "image": "dashboard/captures/plate_20260413_161324.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:24.404185"
+  },
+  {
+    "plate": "TNOAOR",
+    "image": "dashboard/captures/plate_20260413_161325.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:25.799298"
+  },
+  {
+    "plate": "ENOMADE",
+    "image": "dashboard/captures/plate_20260413_161330.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:30.466271"
+  },
+  {
+    "plate": "TNOADEN",
+    "image": "dashboard/captures/plate_20260413_161331.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:31.303249"
+  },
+  {
+    "plate": "OTNIAN",
+    "image": "dashboard/captures/plate_20260413_161331.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:31.987840"
+  },
+  {
+    "plate": "TOABEN",
+    "image": "dashboard/captures/plate_20260413_161332.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:32.510074"
+  },
+  {
+    "plate": "SAGAR",
+    "image": "dashboard/captures/plate_20260413_161335.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:35.595095"
+  },
+  {
+    "plate": "EEETE",
+    "image": "dashboard/captures/plate_20260413_161337.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:37.024239"
+  },
+  {
+    "plate": "SHOAT",
+    "image": "dashboard/captures/plate_20260413_161337.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:37.338246"
+  },
+  {
+    "plate": "6HLUSE",
+    "image": "dashboard/captures/plate_20260413_161337.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:37.482910"
+  },
+  {
+    "plate": "WSLAGE",
+    "image": "dashboard/captures/plate_20260413_161339.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:39.303202"
+  },
+  {
+    "plate": "WWITV",
+    "image": "dashboard/captures/plate_20260413_161340.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:40.386457"
+  },
+  {
+    "plate": "TPREAS",
+    "image": "dashboard/captures/plate_20260413_161342.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:42.366884"
+  },
+  {
+    "plate": "CONES",
+    "image": "dashboard/captures/plate_20260413_161343.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:43.172766"
+  },
+  {
+    "plate": "HEELE",
+    "image": "dashboard/captures/plate_20260413_161343.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:43.454487"
+  },
+  {
+    "plate": "TIESOES",
+    "image": "dashboard/captures/plate_20260413_161345.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:45.410672"
+  },
+  {
+    "plate": "TATER",
+    "image": "dashboard/captures/plate_20260413_161346.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:46.217925"
+  },
+  {
+    "plate": "TNCEE",
+    "image": "dashboard/captures/plate_20260413_161347.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:47.623013"
+  },
+  {
+    "plate": "TEEEN",
+    "image": "dashboard/captures/plate_20260413_161349.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:49.481743"
+  },
+  {
+    "plate": "RENEE",
+    "image": "dashboard/captures/plate_20260413_161349.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:49.556805"
+  },
+  {
+    "plate": "SHIGA",
+    "image": "dashboard/captures/plate_20260413_161352.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:52.579058"
+  },
+  {
+    "plate": "SSADAGAG",
+    "image": "dashboard/captures/plate_20260413_161353.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:53.655599"
+  },
+  {
+    "plate": "OOHOES",
+    "image": "dashboard/captures/plate_20260413_161356.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:56.899940"
+  },
+  {
+    "plate": "REOTAE",
+    "image": "dashboard/captures/plate_20260413_161356.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:13:56.974998"
+  },
+  {
+    "plate": "LENAOE",
+    "image": "dashboard/captures/plate_20260413_161403.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:03.462071"
+  },
+  {
+    "plate": "TOWEN",
+    "image": "dashboard/captures/plate_20260413_161407.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:07.193003"
+  },
+  {
+    "plate": "OTTAE",
+    "image": "dashboard/captures/plate_20260413_161407.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:07.269909"
+  },
+  {
+    "plate": "NOTEES",
+    "image": "dashboard/captures/plate_20260413_161412.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:12.429725"
+  },
+  {
+    "plate": "SIETEAE",
+    "image": "dashboard/captures/plate_20260413_161413.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:13.441568"
+  },
+  {
+    "plate": "TNOES",
+    "image": "dashboard/captures/plate_20260413_161414.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:14.289018"
+  },
+  {
+    "plate": "SAGGY",
+    "image": "dashboard/captures/plate_20260413_161414.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:14.622308"
+  },
+  {
+    "plate": "HKMNY",
+    "image": "dashboard/captures/plate_20260413_161415.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:15.618479"
+  },
+  {
+    "plate": "STARS",
+    "image": "dashboard/captures/plate_20260413_161417.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:17.801448"
+  },
+  {
+    "plate": "GENNES",
+    "image": "dashboard/captures/plate_20260413_161418.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:18.644482"
+  },
+  {
+    "plate": "POHAE",
+    "image": "dashboard/captures/plate_20260413_161420.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:14:20.057879"
+  },
+  {
+    "plate": "SESYP",
+    "image": "dashboard/captures/plate_20260413_162216.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:22:16.654522"
+  },
+  {
+    "plate": "PENANG",
+    "image": "dashboard/captures/plate_20260413_162218.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:22:18.808970"
+  },
+  {
+    "plate": "AWPTAD",
+    "image": "dashboard/captures/plate_20260413_162225.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:22:25.026116"
+  },
+  {
+    "plate": "PENE2SAFARTEE",
+    "image": "dashboard/captures/plate_20260413_162225.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:22:25.459547"
+  },
+  {
+    "plate": "CAE6CAFFEENER",
+    "image": "dashboard/captures/plate_20260413_162226.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:22:26.074884"
+  },
+  {
+    "plate": "PRAWN",
+    "image": "dashboard/captures/plate_20260413_163811.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:38:11.115560"
+  },
+  {
+    "plate": "CERCARANS",
+    "image": "dashboard/captures/plate_20260413_163811.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:38:11.385005"
+  },
+  {
+    "plate": "CAEROFERSE",
+    "image": "dashboard/captures/plate_20260413_163812.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:38:12.754782"
+  },
+  {
+    "plate": "SYMTAS",
+    "image": "dashboard/captures/plate_20260413_163814.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:38:14.035646"
+  },
+  {
+    "plate": "WEDBINA",
+    "image": "dashboard/captures/plate_20260413_163816.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:38:16.746642"
+  },
+  {
+    "plate": "POEAN",
+    "image": "dashboard/captures/capture_1776124138.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:48:58.545279"
+  },
+  {
+    "plate": "WRYON",
+    "image": "dashboard/captures/capture_1776124138.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:48:58.803445"
+  },
+  {
+    "plate": "IDSFPID",
+    "image": "dashboard/captures/capture_1776124139.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:48:59.249330"
+  },
+  {
+    "plate": "RTSAD",
+    "image": "dashboard/captures/capture_1776124139.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:48:59.617617"
+  },
+  {
+    "plate": "PACAA",
+    "image": "dashboard/captures/capture_1776124141.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T16:49:01.207191"
+  },
+  {
+    "plate": "BEANE",
+    "image": "dashboard/captures/capture_1776137597.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:33:17.091598"
+  },
+  {
+    "plate": "PITDABCSSESLEG",
+    "image": "dashboard/captures/capture_1776137604.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:33:24.813378"
+  },
+  {
+    "plate": "PEDOSE",
+    "image": "dashboard/captures/capture_1776137606.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:33:26.693303"
+  },
+  {
+    "plate": "TAHHALLVS",
+    "image": "dashboard/captures/capture_1776137910.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:30.670109"
+  },
+  {
+    "plate": "CALET",
+    "image": "dashboard/captures/capture_1776137910.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:30.882880"
+  },
+  {
+    "plate": "SAFARI",
+    "image": "dashboard/captures/capture_1776137910.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:30.954684"
+  },
+  {
+    "plate": "VOCAL",
+    "image": "dashboard/captures/capture_1776137911.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:31.468592"
+  },
+  {
+    "plate": "WHILE",
+    "image": "dashboard/captures/capture_1776137911.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:31.541408"
+  },
+  {
+    "plate": "ENDAR",
+    "image": "dashboard/captures/capture_1776137911.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:31.712350"
+  },
+  {
+    "plate": "HISTORY",
+    "image": "dashboard/captures/capture_1776137911.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:31.846638"
+  },
+  {
+    "plate": "BOOKIT",
+    "image": "dashboard/captures/capture_1776137911.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:31.919146"
+  },
+  {
+    "plate": "GAFARI",
+    "image": "dashboard/captures/capture_1776137912.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:32.002053"
+  },
+  {
+    "plate": "LENDAR",
+    "image": "dashboard/captures/capture_1776137912.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:32.171228"
+  },
+  {
+    "plate": "T4ISTORY",
+    "image": "dashboard/captures/capture_1776137912.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:32.304452"
+  },
+  {
+    "plate": "ERRVART",
+    "image": "dashboard/captures/capture_1776137912.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:32.438774"
+  },
+  {
+    "plate": "CALENDAR",
+    "image": "dashboard/captures/capture_1776137912.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:32.549021"
+  },
+  {
+    "plate": "AFARI",
+    "image": "dashboard/captures/capture_1776137912.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:32.679098"
+  },
+  {
+    "plate": "HISTOR",
+    "image": "dashboard/captures/capture_1776137913.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:33.089496"
+  },
+  {
+    "plate": "BOOKMARKS",
+    "image": "dashboard/captures/capture_1776137913.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:33.171660"
+  },
+  {
+    "plate": "CAIENCA",
+    "image": "dashboard/captures/capture_1776137913.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:33.760292"
+  },
+  {
+    "plate": "CORNS",
+    "image": "dashboard/captures/capture_1776137918.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:38.154008"
+  },
+  {
+    "plate": "CICER",
+    "image": "dashboard/captures/capture_1776137919.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:39.566424"
+  },
+  {
+    "plate": "SANGOL",
+    "image": "dashboard/captures/capture_1776137920.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:38:40.024695"
+  },
+  {
+    "plate": "YPCUS",
+    "image": "dashboard/captures/capture_1776138110.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:41:50.866787"
+  },
+  {
+    "plate": "EANNOS",
+    "image": "dashboard/captures/capture_1776138116.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:41:56.627711"
+  },
+  {
+    "plate": "LOEAEE",
+    "image": "dashboard/captures/capture_1776138117.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:41:57.226819"
+  },
+  {
+    "plate": "HOMSN",
+    "image": "dashboard/captures/capture_1776138120.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:00.406314"
+  },
+  {
+    "plate": "INVSRSS",
+    "image": "dashboard/captures/capture_1776138124.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:04.426182"
+  },
+  {
+    "plate": "AESLY",
+    "image": "dashboard/captures/capture_1776138126.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:06.108484"
+  },
+  {
+    "plate": "PEEVIM",
+    "image": "dashboard/captures/capture_1776138126.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:06.187875"
+  },
+  {
+    "plate": "AUNGS2",
+    "image": "dashboard/captures/capture_1776138127.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:07.358290"
+  },
+  {
+    "plate": "RUNGSOL",
+    "image": "dashboard/captures/capture_1776138129.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:09.462249"
+  },
+  {
+    "plate": "RUGSOF",
+    "image": "dashboard/captures/capture_1776138130.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:10.462211"
+  },
+  {
+    "plate": "LAZAR",
+    "image": "dashboard/captures/capture_1776138132.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:12.084314"
+  },
+  {
+    "plate": "AUNGSEL",
+    "image": "dashboard/captures/capture_1776138132.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:12.780472"
+  },
+  {
+    "plate": "EMCEE",
+    "image": "dashboard/captures/capture_1776138132.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:12.973648"
+  },
+  {
+    "plate": "TAETAE",
+    "image": "dashboard/captures/capture_1776138134.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:14.134621"
+  },
+  {
+    "plate": "RUNGSEF",
+    "image": "dashboard/captures/capture_1776138135.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:42:15.130361"
+  },
+  {
+    "plate": "HALLS",
+    "image": "dashboard/captures/capture_1776138222.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:42.768249"
+  },
+  {
+    "plate": "SEISAK",
+    "image": "dashboard/captures/capture_1776138232.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:52.807271"
+  },
+  {
+    "plate": "PEDAL",
+    "image": "dashboard/captures/capture_1776138233.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:53.027889"
+  },
+  {
+    "plate": "ELMAANAES",
+    "image": "dashboard/captures/capture_1776138233.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:53.219516"
+  },
+  {
+    "plate": "PRTHDACINILY",
+    "image": "dashboard/captures/capture_1776138236.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:56.231923"
+  },
+  {
+    "plate": "MUGSOF",
+    "image": "dashboard/captures/capture_1776138236.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:56.858457"
+  },
+  {
+    "plate": "RACEFI",
+    "image": "dashboard/captures/capture_1776138238.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:58.368106"
+  },
+  {
+    "plate": "SOAIA",
+    "image": "dashboard/captures/capture_1776138238.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:58.537933"
+  },
+  {
+    "plate": "FEGAN",
+    "image": "dashboard/captures/capture_1776138238.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:58.867979"
+  },
+  {
+    "plate": "PETSY",
+    "image": "dashboard/captures/capture_1776138238.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:43:58.949688"
+  },
+  {
+    "plate": "RANGE",
+    "image": "dashboard/captures/capture_1776138241.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:01.924108"
+  },
+  {
+    "plate": "PRITTSIE",
+    "image": "dashboard/captures/capture_1776138242.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:02.385124"
+  },
+  {
+    "plate": "HOMOT",
+    "image": "dashboard/captures/capture_1776138242.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:02.911590"
+  },
+  {
+    "plate": "STINE",
+    "image": "dashboard/captures/capture_1776138253.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:13.700639"
+  },
+  {
+    "plate": "GATAT",
+    "image": "dashboard/captures/capture_1776138254.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:14.164716"
+  },
+  {
+    "plate": "SAFARI",
+    "image": "dashboard/captures/capture_1776138254.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:14.331104"
+  },
+  {
+    "plate": "ISTORY",
+    "image": "dashboard/captures/capture_1776138254.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:14.477656"
+  },
+  {
+    "plate": "STORY",
+    "image": "dashboard/captures/capture_1776138254.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:14.526956"
+  },
+  {
+    "plate": "GAARA",
+    "image": "dashboard/captures/capture_1776138255.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:15.230630"
+  },
+  {
+    "plate": "WARARY",
+    "image": "dashboard/captures/capture_1776138255.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:15.372685"
+  },
+  {
+    "plate": "HCLTHF",
+    "image": "dashboard/captures/capture_1776138256.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:16.523285"
+  },
+  {
+    "plate": "PETVIO",
+    "image": "dashboard/captures/capture_1776138258.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:18.113114"
+  },
+  {
+    "plate": "CALET",
+    "image": "dashboard/captures/capture_1776138259.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:19.394643"
+  },
+  {
+    "plate": "CAETS",
+    "image": "dashboard/captures/capture_1776138259.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:19.690212"
+  },
+  {
+    "plate": "CALENDAR",
+    "image": "dashboard/captures/capture_1776138260.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:20.237391"
+  },
+  {
+    "plate": "TENDER",
+    "image": "dashboard/captures/capture_1776138260.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:20.668846"
+  },
+  {
+    "plate": "ENDAR",
+    "image": "dashboard/captures/capture_1776138260.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:20.917235"
+  },
+  {
+    "plate": "ENDEAR",
+    "image": "dashboard/captures/capture_1776138261.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:21.380599"
+  },
+  {
+    "plate": "ENDAAR",
+    "image": "dashboard/captures/capture_1776138262.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:22.121248"
+  },
+  {
+    "plate": "CALENCAT",
+    "image": "dashboard/captures/capture_1776138263.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:23.043566"
+  },
+  {
+    "plate": "CALENDER",
+    "image": "dashboard/captures/capture_1776138263.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:23.292869"
+  },
+  {
+    "plate": "CAIENCDET",
+    "image": "dashboard/captures/capture_1776138263.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:23.367404"
+  },
+  {
+    "plate": "CALENDS",
+    "image": "dashboard/captures/capture_1776138263.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:23.876447"
+  },
+  {
+    "plate": "ERNDAR",
+    "image": "dashboard/captures/capture_1776138264.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:24.458022"
+  },
+  {
+    "plate": "CAEND",
+    "image": "dashboard/captures/capture_1776138265.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:25.524351"
+  },
+  {
+    "plate": "CHENSS",
+    "image": "dashboard/captures/capture_1776138265.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:25.838788"
+  },
+  {
+    "plate": "CAIQNCA",
+    "image": "dashboard/captures/capture_1776138266.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:26.153172"
+  },
+  {
+    "plate": "SENAAR",
+    "image": "dashboard/captures/capture_1776138267.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:27.203972"
+  },
+  {
+    "plate": "CAIEND",
+    "image": "dashboard/captures/capture_1776138268.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:28.438296"
+  },
+  {
+    "plate": "CALENDAT",
+    "image": "dashboard/captures/capture_1776138268.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:44:28.725935"
+  },
+  {
+    "plate": "ILYVY",
+    "image": "dashboard/captures/capture_1776138364.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:04.908149"
+  },
+  {
+    "plate": "HISTO",
+    "image": "dashboard/captures/capture_1776138365.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:05.042691"
+  },
+  {
+    "plate": "SAFARI",
+    "image": "dashboard/captures/capture_1776138365.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:05.205708"
+  },
+  {
+    "plate": "ISTORY",
+    "image": "dashboard/captures/capture_1776138365.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:05.345503"
+  },
+  {
+    "plate": "BOOKMN",
+    "image": "dashboard/captures/capture_1776138365.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:05.420004"
+  },
+  {
+    "plate": "CALET",
+    "image": "dashboard/captures/capture_1776138367.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:07.887002"
+  },
+  {
+    "plate": "CALEL",
+    "image": "dashboard/captures/capture_1776138368.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:08.377099"
+  },
+  {
+    "plate": "CAIEN",
+    "image": "dashboard/captures/capture_1776138368.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:08.726364"
+  },
+  {
+    "plate": "CAIAT",
+    "image": "dashboard/captures/capture_1776138369.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:09.348566"
+  },
+  {
+    "plate": "LIHIKE",
+    "image": "dashboard/captures/capture_1776138369.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:09.596365"
+  },
+  {
+    "plate": "CEILER",
+    "image": "dashboard/captures/capture_1776138369.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:09.740510"
+  },
+  {
+    "plate": "CAIET",
+    "image": "dashboard/captures/capture_1776138369.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:09.996232"
+  },
+  {
+    "plate": "GALEN",
+    "image": "dashboard/captures/capture_1776138370.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:10.397954"
+  },
+  {
+    "plate": "CALEND",
+    "image": "dashboard/captures/capture_1776138370.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:10.664345"
+  },
+  {
+    "plate": "CAIEND",
+    "image": "dashboard/captures/capture_1776138370.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:10.896641"
+  },
+  {
+    "plate": "CONVERS",
+    "image": "dashboard/captures/capture_1776138372.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:12.005912"
+  },
+  {
+    "plate": "QWRESE",
+    "image": "dashboard/captures/capture_1776138373.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:13.045177"
+  },
+  {
+    "plate": "VERSE",
+    "image": "dashboard/captures/capture_1776138375.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:15.076382"
+  },
+  {
+    "plate": "RANGEAF",
+    "image": "dashboard/captures/capture_1776138375.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:15.154758"
+  },
+  {
+    "plate": "IVERS",
+    "image": "dashboard/captures/capture_1776138377.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:17.055323"
+  },
+  {
+    "plate": "RUNGS2",
+    "image": "dashboard/captures/capture_1776138377.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:17.191356"
+  },
+  {
+    "plate": "RUNGSEL",
+    "image": "dashboard/captures/capture_1776138377.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:17.836014"
+  },
+  {
+    "plate": "RUNGSI",
+    "image": "dashboard/captures/capture_1776138379.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:19.317526"
+  },
+  {
+    "plate": "SUGEL",
+    "image": "dashboard/captures/capture_1776138379.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:46:19.407284"
+  },
+  {
+    "plate": "CONVERS",
+    "image": "dashboard/captures/capture_1776138806.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:26.265910"
+  },
+  {
+    "plate": "BROCK",
+    "image": "dashboard/captures/capture_1776138813.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:33.619384"
+  },
+  {
+    "plate": "HATSTE",
+    "image": "dashboard/captures/capture_1776138817.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:37.785455"
+  },
+  {
+    "plate": "WITEBEEDA",
+    "image": "dashboard/captures/capture_1776138818.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:38.356538"
+  },
+  {
+    "plate": "LIMES",
+    "image": "dashboard/captures/capture_1776138818.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:38.431043"
+  },
+  {
+    "plate": "YSEEE",
+    "image": "dashboard/captures/capture_1776138832.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:52.832888"
+  },
+  {
+    "plate": "CEAES",
+    "image": "dashboard/captures/capture_1776138833.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:53.161873"
+  },
+  {
+    "plate": "PSSST",
+    "image": "dashboard/captures/capture_1776138836.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:56.606241"
+  },
+  {
+    "plate": "ONVERSE",
+    "image": "dashboard/captures/capture_1776138837.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:57.314237"
+  },
+  {
+    "plate": "ERSTE",
+    "image": "dashboard/captures/capture_1776138838.jpg",
+    "status": "unauthorized",
+    "timestamp": "2026-04-13T20:53:58.130919"
   }
 ]

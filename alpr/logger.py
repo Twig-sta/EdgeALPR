@@ -1,14 +1,17 @@
 import json
+import os
+import cv2
 from datetime import datetime
 
 LOG_FILE = "logs/detections.json"
 
 
-def log_detection(plate_text, image_path):
+def log_detection(plate_text, image_path, status):
 
     entry = {
         "plate": plate_text,
         "image": image_path,
+        "status": status,  
         "timestamp": datetime.now().isoformat()
     }
 
