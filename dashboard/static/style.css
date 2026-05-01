@@ -27,7 +27,6 @@ h1, h2 {
     align-items: center;
 }
 
-/* LIVE FEED */
 .live-feed {
     width: 640px;
     max-width: 100%;
@@ -37,7 +36,6 @@ h1, h2 {
     margin: auto;
 }
 
-/* CAPTURED IMAGE */
 .captured-img {
     max-width: 900px;
     width: 100%;
@@ -69,7 +67,6 @@ h1, h2 {
     object-fit: contain;
 }
 
-/* BUTTONS */
 .capture-btn {
     margin-top: 10px;
     padding: 10px 20px;

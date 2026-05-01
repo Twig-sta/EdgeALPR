@@ -14,7 +14,6 @@ from alpr.visualization import draw_detections
 
 app = Flask(__name__)
 
-#camera from rasberry pi
 camera_service = CameraService()
 
 last_capture = {"image": None, "detections": []}
@@ -39,14 +38,7 @@ def generate_frames():
         try:
             frame = camera_service.get_frame()
 
-            detections_list = process_frame(frame)
-
-            detections_list = [
-                d for d in detections_list
-                if d.get("text") and d.get("text").strip() != ""
-            ]
-
-            frame = draw_detections(frame, detections_list)
+            ret, buffer = cv2.imencode('.jpg', frame)
 
             ret, buffer = cv2.imencode('.jpg', frame)
             if not ret:
