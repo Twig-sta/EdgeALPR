@@ -85,10 +85,7 @@ def capture_image():
 
     detected_plates = process_frame(frame)
 
-    filtered_detections = [
-        d for d in detected_plates
-        if d.get("text") and d.get("text").strip() != ""
-    ]
+    filtered_detections = detected_plates
 
     frame_with_boxes = draw_detections(frame.copy(), filtered_detections)
 

@@ -32,7 +32,10 @@ def preprocess_image(frame):
 # Detect edges in the preprocessed image using Canny edge detection
 # This function takes the blurred grayscale image and applies the Canny edge detection algorithm to find edges
 def detect_edges(image):
-    edges = cv2.Canny(image, 100, 200) 
+    edges = cv2.Canny(image, 50, 150)
+
+    edges = cv2.dilate(edges, None, iterations=2)
+    edges = cv2.erode(edges, None, iterations=1)
 
     return edges
 

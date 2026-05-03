@@ -13,15 +13,30 @@ def detect_plates(frame):
 
     candidates = []
 
+    debug = frame.copy()
+
     #Loop through the detected contours and filter them based on aspect ratio and area to identify potential license plate candidates
     for contour in contours:
         x, y, w, h = cv2.boundingRect(contour)
+        cv2.rectangle(debug, (x, y), (x+w, y+h), (0,255,0), 1)
         aspect_ratio = w / float(h)
         area = w * h
+
+        print(f"Candidate: w={w}, h={h}, area={area}, ratio={aspect_ratio:.2f}")
         
-        # Filter for typical license plate dimensions: aspect ratio between 2-5, minimum area, and size constraints
-        if 2 <= aspect_ratio <= 5 and area > 500 and w >= 50 and h >= 20 and w <= 300 and h <= 100:
+
+        cv2.rectangle(frame, (x, y), (x+w, y+h), (255, 0, 0), 1)
+        
+        if (2.5 <= aspect_ratio <= 7.5 and 1000 <= area <= 60000 and h >= 20 and w >= 80):
+            
+            
+            crop_y1 = int(y + h *0.3)
+            crop_y2 = int(y + h *0.75)
             plate_img = frame[y:y+h, x:x+w]
+
+            if plate_img is None or plate_img.size == 0:
+
+                continue
 
             #Store the bounding box and the corresponding image of the candidate license plate for further processing
             candidates.append({
