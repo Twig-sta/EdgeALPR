@@ -3,23 +3,55 @@
 <head>
     <title>EdgeALPR Dashboard</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <h1>EdgeALPR Live Feed</h1>
+    <main class="page">
+        <header class="page-header">
+            <div>
+                <p class="eyebrow">EdgeALPR</p>
+                <h1>Live Feed</h1>
+            </div>
 
-    <div class="container">
-        <div class="feed">
-            <img class="live-feed" src="{{ url_for('video_feed') }}" alt="Live Camera Feed">
+            <nav class="actions">
+                <a class="button secondary" href="{{ url_for('history_page') }}">History</a>
+                <a class="button primary" href="{{ url_for('capture_image') }}">Capture</a>
+            </nav>
+        </header>
 
-            <br>
-            
-            <a href="{{ url_for('capture_image') }}">
-                <button class="capture-btn">📸 Capture Image</button>
-            </a>
-            <a href="{{ url_for('history_page') }}">
-                <button class="nav-btn">📜 View History</button>
-            </a>
-        </div>
-    </div>
+        <section class="toolbar" aria-label="Camera settings">
+            <form method="post" action="{{ url_for('camera_mode') }}" class="mode-form">
+                <label class="switch">
+                    <input type="checkbox" name="low_light" {% if low_light %}checked{% endif %} onchange="this.form.submit()">
+                    <span class="slider"></span>
+                    <span>Low Light Detection</span>
+                </label>
+            </form>
+        </section>
+
+        <section class="feed-panel">
+            <div class="feed-frame">
+                <img id="liveFeed" class="live-feed" data-src="{{ url_for('video_feed') }}" alt="Live Camera Feed">
+                <div id="feedStatus" class="feed-status">Starting camera...</div>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        const feed = document.getElementById("liveFeed");
+        const status = document.getElementById("feedStatus");
+
+        feed.addEventListener("load", () => {
+            status.classList.add("hidden");
+        });
+
+        window.addEventListener("pageshow", () => {
+            feed.src = feed.dataset.src + "?t=" + Date.now();
+        });
+
+        window.addEventListener("pagehide", () => {
+            feed.removeAttribute("src");
+        });
+    </script>
 </body>
 </html>

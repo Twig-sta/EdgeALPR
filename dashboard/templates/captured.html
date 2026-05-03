@@ -3,37 +3,35 @@
 <head>
     <title>EdgeALPR Captured Image</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body>
-    <h1>Captured Image & Detected Plates</h1>
+    <main class="page">
+        <header class="page-header">
+            <div>
+                <p class="eyebrow">EdgeALPR</p>
+                <h1>Captured Image</h1>
+            </div>
 
-    <!-- ✅ NAVIGATION BUTTONS -->
-    <div style="margin: 15px;">
-        <a href="{{ url_for('live_feed_page') }}">
-            <button class="capture-btn">🏠 Back to Live Feed</button>
-        </a>
+            <nav class="actions">
+                <a class="button secondary" href="{{ url_for('history_page') }}">History</a>
+                <a class="button primary" href="{{ url_for('live_feed_page') }}">Live Feed</a>
+            </nav>
+        </header>
 
-        <a href="{{ url_for('history_page') }}">
-            <button class="nav-btn">📜 View History</button>
-        </a>
-    </div>
-
-    <div class="container">
-
-        <!-- ✅ CAPTURED IMAGE -->
-        <div class="captured-image">
+        <section class="capture-layout">
+            <div class="captured-image">
             {% if capture.image %}
                 <img class="captured-img"
                      src="{{ url_for('serve_image', filename=capture.image) }}">
             {% else %}
                 <p>No image captured.</p>
             {% endif %}
-        </div>
+            </div>
 
-        <!-- ✅ DETECTIONS -->
-        <div class="detections">
-            <h2>Detected Plates</h2>
+            <aside class="detections">
+                <h2>Detected Plates</h2>
 
             {% if capture.detections %}
                 {% for d in capture.detections %}
@@ -44,8 +42,8 @@
             {% else %}
                 <p class="no-detections">No plates detected.</p>
             {% endif %}
-        </div>
-
-    </div>
+            </aside>
+        </section>
+    </main>
 </body>
 </html>
