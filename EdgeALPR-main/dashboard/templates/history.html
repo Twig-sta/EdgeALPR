@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plate History</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #0f172a;
+            color: white;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 20px;
+        }
+
+        input {
+            padding: 10px;
+            width: 300px;
+            margin: 20px;
+            border-radius: 8px;
+            border: none;
+        }
+
+        .filters {
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            background-color: #3b82f6;
+            color: white;
+        }
+
+        button:hover {
+            background-color: #2563eb;
+        }
+
+        .grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .card {
+            background: #1e293b;
+            margin: 10px;
+            padding: 15px;
+            border-radius: 12px;
+            width: 220px;
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        img {
+            width: 100%;
+            border-radius: 8px;
+        }
+
+        .authorized {
+            color: #4ade80;
+            font-weight: bold;
+        }
+
+        .unauthorized {
+            color: #f87171;
+            font-weight: bold;
+        }
+
+        .timestamp {
+            font-size: 12px;
+            color: #cbd5f5;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- ✅ NAV BUTTONS (CORRECT LOCATION) -->
+<div style="margin: 15px;">
+    <a href="{{ url_for('captured_page') }}">
+        <button>⬅ Back to Capture</button>
+    </a>
+
+    <a href="{{ url_for('live_feed_page') }}">
+        <button>🏠 Dashboard</button>
+    </a>
+</div>
+
+<h1>Plate Detection History</h1>
+
+<input type="text" id="search" placeholder="Search plate..." onkeyup="filterPlates()">
+
+<div class="filters">
+    <button onclick="filterStatus('all')">All</button>
+    <button onclick="filterStatus('authorized')">Authorized</button>
+    <button onclick="filterStatus('unauthorized')">Unauthorized</button>
+</div>
+
+<div class="grid" id="plateGrid">
+    {% for log in logs %}
+        <div class="card" data-status="{{ log.status }}">
+            <h3 class="{{ log.status }}">{{ log.plate }}</h3>
+            <p class="timestamp">{{ log.timestamp }}</p>
+            <img src="/captures/{{ log.image.split('/')[-1] }}">
+        </div>
+    {% endfor %}
+</div>
+
+<script>
+let currentStatus = "all";
+
+function filterPlates() {
+    applyFilters();
+}
+
+function filterStatus(status) {
+    currentStatus = status;
+
+    if (status === "all") {
+        document.getElementById("search").value = "";
+    }
+
+    applyFilters();
+}
+
+function applyFilters() {
+    let input = document.getElementById("search").value.toUpperCase();
+    let cards = document.querySelectorAll(".card");
+
+    cards.forEach(card => {
+        let plateElement = card.querySelector("h3");
+        let plate = plateElement.textContent.toUpperCase().trim();
+        let cardStatus = card.getAttribute("data-status");
+
+        let matchesSearch = plate.includes(input);
+        let matchesStatus = (currentStatus === "all" || cardStatus === currentStatus);
+
+        if (matchesSearch && matchesStatus) {
+            card.style.display = "block";
+        } else {
+            card.style.display = "none";
+        }
+    });
+}
+</script>
+
+</body>
+</html>

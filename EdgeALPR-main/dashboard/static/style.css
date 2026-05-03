@@ -1,0 +1,117 @@
+body {
+    background: #0f172a;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.captured-image, .detections {
+    width: 80%;
+    text-align: center;
+}
+
+.feed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.live-feed {
+    width: 640px;
+    max-width: 100%;
+    border: 2px solid #3b82f6;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.captured-img {
+    max-width: 900px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid #3b82f6;
+}
+
+.card {
+    background: #1e293b;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    width: 90%;
+    max-width: 700px;
+
+    /* IMPORTANT FIX */
+    height: auto;
+    overflow: visible;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+
+    /* KEY FIX: prevents cropping */
+    object-fit: contain;
+}
+
+.capture-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.capture-btn:hover {
+    background-color: #2563eb;
+}
+
+.nav-btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #22c55e;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.nav-btn:hover {
+    background-color: #16a34a;
+}
+
+.no-detections {
+    color: #94a3b8;
+    font-style: italic;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #3b82f6;
+    color: white;
+}
+
+button:hover {
+    background-color: #2563eb;
+}
