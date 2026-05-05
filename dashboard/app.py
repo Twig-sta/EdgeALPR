@@ -19,6 +19,8 @@ camera_service = CameraService()
 last_capture = {"image": None, "detections": []}
 LOG_FILE = "logs/detections.json"
 camera_settings = {"low_light": False}
+STREAM_DELAY_SECONDS = float(os.environ.get("EDGEALPR_STREAM_DELAY", "0.08"))
+STREAM_JPEG_QUALITY = int(os.environ.get("EDGEALPR_STREAM_QUALITY", "70"))
 
 
 CAPTURE_DIR = os.path.join(os.path.dirname(__file__), "captures")
@@ -62,7 +64,7 @@ def generate_frames():
                 time.sleep(0.1)
                 continue
 
-            ret, buffer = cv2.imencode('.jpg', frame, [cv2.IMWRITE_JPEG_QUALITY, 80])
+            ret, buffer = cv2.imencode('.jpg', frame, [cv2.IMWRITE_JPEG_QUALITY, STREAM_JPEG_QUALITY])
             if not ret:
                 time.sleep(0.03)
                 continue
@@ -75,7 +77,7 @@ def generate_frames():
                 frame_bytes +
                 b'\r\n'
             )
-            time.sleep(0.03)
+            time.sleep(STREAM_DELAY_SECONDS)
 
         except Exception as e:
             print(f"Error generating frame: {e}")

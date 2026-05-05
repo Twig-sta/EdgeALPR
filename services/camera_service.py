@@ -1,4 +1,5 @@
 import cv2
+import os
 import threading
 import time
 
@@ -12,6 +13,7 @@ class CameraService:
     def __init__(self):
         self.cap = None
         self.picam2 = None
+        self.frame_size = self._frame_size()
         self.lock = threading.Lock()
         self.latest_frame = None
         self.running = self._open_camera()
@@ -23,13 +25,18 @@ class CameraService:
             self.thread = threading.Thread(target=self._read_frames, daemon=True)
             self.thread.start()
 
+    def _frame_size(self):
+        width = int(os.environ.get("EDGEALPR_CAMERA_WIDTH", "640"))
+        height = int(os.environ.get("EDGEALPR_CAMERA_HEIGHT", "480"))
+        return width, height
+
     def _open_camera(self):
         if Picamera2 is not None:
             try:
                 self.picam2 = Picamera2()
                 self.picam2.configure(
                     self.picam2.create_preview_configuration(
-                        main={"format": "RGB888", "size": (1280, 720)}
+                        main={"format": "RGB888", "size": self.frame_size}
                     )
                 )
                 self.picam2.start()
@@ -38,10 +45,16 @@ class CameraService:
                 print(f"Picamera2 unavailable: {error}")
                 self.picam2 = None
 
-        self.cap = cv2.VideoCapture(0, cv2.CAP_AVFOUNDATION)
+        avfoundation = getattr(cv2, "CAP_AVFOUNDATION", 0)
+        self.cap = cv2.VideoCapture(0, avfoundation)
         if not self.cap.isOpened():
             self.cap.release()
             self.cap = cv2.VideoCapture(0)
+
+        if self.cap.isOpened():
+            width, height = self.frame_size
+            self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, width)
+            self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, height)
 
         return self.cap.isOpened()
 
